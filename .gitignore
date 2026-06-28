@@ -2,4 +2,4 @@ __pycache__/
 *.pyc
 node_modules/
 _waf_cookies.json
-_checkpoint_v2.json
+_checkpoint.json

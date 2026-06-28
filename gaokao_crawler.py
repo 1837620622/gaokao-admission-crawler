@@ -4,10 +4,10 @@ API_URL = "https://api-gaokao.zjzw.cn/apidata/web"
 YEAR = 2025
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 DATA_DIR = os.path.join(BASE_DIR, "gaokao_data")
-CHECKPOINT_FILE = os.path.join(BASE_DIR, "_checkpoint_v2.json")
+CHECKPOINT_FILE = os.path.join(BASE_DIR, "_checkpoint.json")
 CSV_FILE = os.path.join(DATA_DIR, "_all_data.csv")
 COOKIE_FILE = os.path.join(BASE_DIR, "_waf_cookies.json")
-NODE_SCRIPT = os.path.join(BASE_DIR, "get_cookies.js")
+NODE_SCRIPT = os.path.join(BASE_DIR, "waf-bypass.js")
 os.makedirs(DATA_DIR, exist_ok=True)
 
 API_SEM_SIZE = 30
