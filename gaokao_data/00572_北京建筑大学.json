@@ -1,0 +1,52 @@
+{
+  "id": 572,
+  "name": "北京建筑大学",
+  "level": "普通本科",
+  "province": "北京",
+  "year": 2025,
+  "count": 2,
+  "records": [
+    {
+      "school_id": 572,
+      "name": "北京建筑大学",
+      "year": 2025,
+      "local_batch_id": 14,
+      "local_batch_name": "本科批",
+      "local_province_name": "黑龙江",
+      "local_type_name": "物理类",
+      "min": 544,
+      "min_section": 18397,
+      "num": "-",
+      "proscore": 360,
+      "sg_info": "首选物理，再选不限",
+      "sg_name": "（001）",
+      "special_group": "264205",
+      "xclevel_name": "",
+      "zslx_name": "普通类",
+      "diff": 184,
+      "local_type_id": 2073,
+      "local_province_id": 23
+    },
+    {
+      "school_id": 572,
+      "name": "北京建筑大学",
+      "year": 2025,
+      "local_batch_id": 14,
+      "local_batch_name": "本科批",
+      "local_province_name": "黑龙江",
+      "local_type_name": "物理类",
+      "min": 477,
+      "min_section": 40193,
+      "num": "-",
+      "proscore": 360,
+      "sg_info": "首选物理，再选化学",
+      "sg_name": "（002）",
+      "special_group": "264204",
+      "xclevel_name": "",
+      "zslx_name": "普通类",
+      "diff": 117,
+      "local_type_id": 2073,
+      "local_province_id": 23
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": 1412,
+  "name": "苏州经贸职业技术学院",
+  "level": "专科（高职）",
+  "province": "江苏",
+  "year": 2025,
+  "count": 1,
+  "records": [
+    {
+      "school_id": 1412,
+      "name": "苏州经贸职业技术学院",
+      "year": 2025,
+      "local_batch_id": 10,
+      "local_batch_name": "专科批",
+      "local_province_name": "江西",
+      "local_type_name": "物理类",
+      "min": 428,
+      "min_section": 172395,
+      "num": "-",
+      "proscore": 240,
+      "sg_info": "首选物理，再选不限",
+      "sg_name": "（501）",
+      "special_group": "570935",
+      "xclevel_name": "",
+      "zslx_name": "普通类",
+      "diff": 188,
+      "local_type_id": 2073,
+      "local_province_id": 36
+    }
+  ]
+}

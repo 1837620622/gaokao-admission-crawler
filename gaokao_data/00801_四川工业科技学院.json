@@ -1,0 +1,31 @@
+{
+  "id": 801,
+  "name": "四川工业科技学院",
+  "level": "普通本科",
+  "province": "四川",
+  "year": 2025,
+  "count": 1,
+  "records": [
+    {
+      "school_id": 801,
+      "name": "四川工业科技学院",
+      "year": 2025,
+      "local_batch_id": 14,
+      "local_batch_name": "本科批",
+      "local_province_name": "贵州",
+      "local_type_name": "历史类",
+      "min": 483,
+      "min_section": 28346,
+      "num": 3,
+      "proscore": 458,
+      "sg_info": "",
+      "sg_name": "",
+      "special_group": "0",
+      "xclevel_name": "",
+      "zslx_name": "普通类",
+      "diff": 25,
+      "local_type_id": 2074,
+      "local_province_id": 52
+    }
+  ]
+}

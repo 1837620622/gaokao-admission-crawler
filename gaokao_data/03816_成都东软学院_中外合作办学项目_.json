@@ -1,0 +1,29 @@
+{
+  "id": 3816,
+  "name": "成都东软学院（中外合作办学项目）",
+  "level": "普通本科",
+  "province": "四川",
+  "year": 2025,
+  "count": 1,
+  "records": [
+    {
+      "sp_name": "数据科学与大数据技术",
+      "remark": "（中外合作办学）（第1-3年在成都东软学院学习（学费/年），符合条件者第在美国东康涅狄格州立大学学习（学费约150000元/年）；达到两校毕业及学位授予条件者分别授予成都东软学院毕业证、学位证书，东康涅狄格州立大学学位证书。进校后不得转专业，非英语考生慎报；办学地点：校本部）",
+      "min": "425",
+      "min_section": "103219",
+      "average": "-",
+      "is_score_range": 2,
+      "min_range": "-",
+      "min_rank_range": "-",
+      "zslx_name": "中外合作办学",
+      "sg_info": "首选物理，再选化学",
+      "diff": 0,
+      "lq_num": "-",
+      "school_special_id": 2165518,
+      "school_special_status": 1,
+      "local_type_id": 2073,
+      "local_province_id": 50,
+      "local_batch_id": 14
+    }
+  ]
+}

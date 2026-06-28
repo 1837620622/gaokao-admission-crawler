@@ -1,0 +1,52 @@
+{
+  "id": 3814,
+  "name": "塔里木理工学院",
+  "level": "普通本科",
+  "province": "新疆",
+  "year": 2025,
+  "count": 2,
+  "records": [
+    {
+      "school_id": 3814,
+      "name": "塔里木理工学院",
+      "year": 2025,
+      "local_batch_id": 8,
+      "local_batch_name": "本科二批",
+      "local_province_name": "新疆",
+      "local_type_name": "文科",
+      "min": 355,
+      "min_section": 11967,
+      "num": 51,
+      "proscore": 330,
+      "sg_info": "",
+      "sg_name": "",
+      "special_group": "0",
+      "xclevel_name": "",
+      "zslx_name": "普通类",
+      "diff": 25,
+      "local_type_id": 2,
+      "local_province_id": 65
+    },
+    {
+      "school_id": 3814,
+      "name": "塔里木理工学院",
+      "year": 2025,
+      "local_batch_id": 2895,
+      "local_batch_name": "国家及地方专项、南疆单列、对口援疆计划本科二批次",
+      "local_province_name": "新疆",
+      "local_type_name": "文科",
+      "min": 330,
+      "min_section": 14519,
+      "num": 3,
+      "proscore": "-",
+      "sg_info": "",
+      "sg_name": "",
+      "special_group": "0",
+      "xclevel_name": "",
+      "zslx_name": "单列类，南疆单列",
+      "diff": "-",
+      "local_type_id": 2,
+      "local_province_id": 65
+    }
+  ]
+}

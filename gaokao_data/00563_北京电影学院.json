@@ -1,0 +1,30 @@
+{
+  "id": 563,
+  "name": "北京电影学院",
+  "level": "普通本科",
+  "province": "北京",
+  "year": 2025,
+  "count": 1,
+  "records": [
+    {
+      "sp_name": "电影学",
+      "remark": "（制片与市场）（录取规则详见我校在教育部阳光高考平台公示的2025年招生章程）",
+      "min": "568",
+      "min_section": "7236",
+      "average": "-",
+      "is_score_range": 2,
+      "min_range": "-",
+      "min_rank_range": "-",
+      "zslx_name": "普通类",
+      "sg_info": "首选历史，再选不限",
+      "diff": 82,
+      "lq_num": "3",
+      "sg_name": "（101）",
+      "school_special_id": 803508,
+      "school_special_status": 1,
+      "local_type_id": 2074,
+      "local_province_id": 36,
+      "local_batch_id": 14
+    }
+  ]
+}

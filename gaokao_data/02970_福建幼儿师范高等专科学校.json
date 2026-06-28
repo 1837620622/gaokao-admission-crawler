@@ -1,0 +1,52 @@
+{
+  "id": 2970,
+  "name": "福建幼儿师范高等专科学校",
+  "level": "专科（高职）",
+  "province": "福建",
+  "year": 2025,
+  "count": 2,
+  "records": [
+    {
+      "school_id": 2970,
+      "name": "福建幼儿师范高等专科学校",
+      "year": 2025,
+      "local_batch_id": 10,
+      "local_batch_name": "专科批",
+      "local_province_name": "福建",
+      "local_type_name": "历史类",
+      "min": 375,
+      "min_section": 43092,
+      "num": "-",
+      "proscore": 235,
+      "sg_info": "",
+      "sg_name": "",
+      "special_group": "0",
+      "xclevel_name": "",
+      "zslx_name": "普通类",
+      "diff": 140,
+      "local_type_id": 2074,
+      "local_province_id": 35
+    },
+    {
+      "school_id": 2970,
+      "name": "福建幼儿师范高等专科学校",
+      "year": 2025,
+      "local_batch_id": 10,
+      "local_batch_name": "专科批",
+      "local_province_name": "福建",
+      "local_type_name": "历史类",
+      "min": 446,
+      "min_section": 26445,
+      "num": "-",
+      "proscore": 235,
+      "sg_info": "",
+      "sg_name": "",
+      "special_group": "0",
+      "xclevel_name": "",
+      "zslx_name": "高本贯通",
+      "diff": 211,
+      "local_type_id": 2074,
+      "local_province_id": 35
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": 594,
+  "name": "国际关系学院",
+  "level": "普通本科",
+  "province": "北京",
+  "year": 2025,
+  "count": 2,
+  "records": [
+    {
+      "school_id": 594,
+      "name": "国际关系学院",
+      "year": 2025,
+      "local_batch_id": 4018,
+      "local_batch_name": "提前批A段",
+      "local_province_name": "吉林",
+      "local_type_name": "历史类",
+      "min": 586,
+      "min_section": 1717,
+      "num": 4,
+      "proscore": "-",
+      "sg_info": "首选历史，再选思想政治",
+      "sg_name": "（002）",
+      "special_group": "480678",
+      "xclevel_name": "",
+      "zslx_name": "普通类",
+      "diff": "-",
+      "local_type_id": 2074,
+      "local_province_id": 22
+    },
+    {
+      "school_id": 594,
+      "name": "国际关系学院",
+      "year": 2025,
+      "local_batch_id": 4018,
+      "local_batch_name": "提前批A段",
+      "local_province_name": "吉林",
+      "local_type_name": "历史类",
+      "min": 547,
+      "min_section": 4043,
+      "num": 4,
+      "proscore": "-",
+      "sg_info": "首选历史，再选思想政治",
+      "sg_name": "（001）",
+      "special_group": "480667",
+      "xclevel_name": "",
+      "zslx_name": "普通类",
+      "diff": "-",
+      "local_type_id": 2074,
+      "local_province_id": 22
+    }
+  ]
+}

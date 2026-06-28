@@ -1,0 +1,52 @@
+{
+  "id": 314,
+  "name": "安徽师范大学",
+  "level": "普通本科",
+  "province": "安徽",
+  "year": 2025,
+  "count": 2,
+  "records": [
+    {
+      "school_id": 314,
+      "name": "安徽师范大学",
+      "year": 2025,
+      "local_batch_id": 15,
+      "local_batch_name": "普通类提前批",
+      "local_province_name": "浙江",
+      "local_type_name": "综合",
+      "min": 609,
+      "min_section": 42849,
+      "num": "-",
+      "proscore": "-",
+      "sg_info": "",
+      "sg_name": "",
+      "special_group": "0",
+      "xclevel_name": "",
+      "zslx_name": "普通类",
+      "diff": "-",
+      "local_type_id": 3,
+      "local_province_id": 33
+    },
+    {
+      "school_id": 314,
+      "name": "安徽师范大学",
+      "year": 2025,
+      "local_batch_id": 1570,
+      "local_batch_name": "普通类一段",
+      "local_province_name": "浙江",
+      "local_type_name": "综合",
+      "min": 540,
+      "min_section": 124082,
+      "num": "-",
+      "proscore": 490,
+      "sg_info": "",
+      "sg_name": "",
+      "special_group": "0",
+      "xclevel_name": "",
+      "zslx_name": "普通类",
+      "diff": 50,
+      "local_type_id": 3,
+      "local_province_id": 33
+    }
+  ]
+}

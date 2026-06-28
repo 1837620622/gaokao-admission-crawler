@@ -1,0 +1,31 @@
+{
+  "id": 3569,
+  "name": "重庆移通学院德国工程学院",
+  "level": "普通本科",
+  "province": "重庆",
+  "year": 2025,
+  "count": 1,
+  "records": [
+    {
+      "school_id": 3569,
+      "name": "重庆移通学院德国工程学院",
+      "year": 2025,
+      "local_batch_id": 14,
+      "local_batch_name": "本科批",
+      "local_province_name": "重庆",
+      "local_type_name": "物理类",
+      "min": 425,
+      "min_section": 103219,
+      "num": "-",
+      "proscore": 425,
+      "sg_info": "",
+      "sg_name": "",
+      "special_group": "0",
+      "xclevel_name": "",
+      "zslx_name": "中外合作办学",
+      "diff": 0,
+      "local_type_id": 2073,
+      "local_province_id": 50
+    }
+  ]
+}

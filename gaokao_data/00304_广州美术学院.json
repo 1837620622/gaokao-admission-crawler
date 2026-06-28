@@ -1,0 +1,52 @@
+{
+  "id": 304,
+  "name": "广州美术学院",
+  "level": "普通本科",
+  "province": "广东",
+  "year": 2025,
+  "count": 2,
+  "records": [
+    {
+      "school_id": 304,
+      "name": "广州美术学院",
+      "year": 2025,
+      "local_batch_id": 14,
+      "local_batch_name": "本科批",
+      "local_province_name": "广东",
+      "local_type_name": "物理类",
+      "min": 532,
+      "min_section": 109158,
+      "num": 202,
+      "proscore": 436,
+      "sg_info": "首选物理，再选化学",
+      "sg_name": "（214）",
+      "special_group": "611406",
+      "xclevel_name": "",
+      "zslx_name": "普通类",
+      "diff": 96,
+      "local_type_id": 2073,
+      "local_province_id": 44
+    },
+    {
+      "school_id": 304,
+      "name": "广州美术学院",
+      "year": 2025,
+      "local_batch_id": 14,
+      "local_batch_name": "本科批",
+      "local_province_name": "广东",
+      "local_type_name": "物理类",
+      "min": 522,
+      "min_section": 125758,
+      "num": 109,
+      "proscore": 436,
+      "sg_info": "首选物理，再选不限",
+      "sg_name": "（213）",
+      "special_group": "611403",
+      "xclevel_name": "",
+      "zslx_name": "普通类",
+      "diff": 86,
+      "local_type_id": 2073,
+      "local_province_id": 44
+    }
+  ]
+}

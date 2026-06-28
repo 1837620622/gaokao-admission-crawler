@@ -1,0 +1,31 @@
+{
+  "id": 492,
+  "name": "甘肃农业大学",
+  "level": "普通本科",
+  "province": "甘肃",
+  "year": 2025,
+  "count": 1,
+  "records": [
+    {
+      "school_id": 492,
+      "name": "甘肃农业大学",
+      "year": 2025,
+      "local_batch_id": 14,
+      "local_batch_name": "本科批",
+      "local_province_name": "青海",
+      "local_type_name": "物理类",
+      "min": 382,
+      "min_section": 15467,
+      "num": 5,
+      "proscore": 350,
+      "sg_info": "",
+      "sg_name": "",
+      "special_group": "0",
+      "xclevel_name": "",
+      "zslx_name": "普通类",
+      "diff": 32,
+      "local_type_id": 2073,
+      "local_province_id": 63
+    }
+  ]
+}

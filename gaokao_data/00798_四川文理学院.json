@@ -1,0 +1,31 @@
+{
+  "id": 798,
+  "name": "四川文理学院",
+  "level": "普通本科",
+  "province": "四川",
+  "year": 2025,
+  "count": 1,
+  "records": [
+    {
+      "school_id": 798,
+      "name": "四川文理学院",
+      "year": 2025,
+      "local_batch_id": 14,
+      "local_batch_name": "本科批",
+      "local_province_name": "吉林",
+      "local_type_name": "物理类",
+      "min": 462,
+      "min_section": 36973,
+      "num": 3,
+      "proscore": 340,
+      "sg_info": "首选物理，再选化学",
+      "sg_name": "（002）",
+      "special_group": "481014",
+      "xclevel_name": "",
+      "zslx_name": "普通类",
+      "diff": 122,
+      "local_type_id": 2073,
+      "local_province_id": 22
+    }
+  ]
+}

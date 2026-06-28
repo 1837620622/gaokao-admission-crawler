@@ -1,0 +1,52 @@
+{
+  "id": 3786,
+  "name": "苏州旅游职业学院",
+  "level": "专科（高职）",
+  "province": "江苏",
+  "year": 2025,
+  "count": 2,
+  "records": [
+    {
+      "school_id": 3786,
+      "name": "苏州旅游职业学院",
+      "year": 2025,
+      "local_batch_id": 10,
+      "local_batch_name": "专科批",
+      "local_province_name": "江苏",
+      "local_type_name": "物理类",
+      "min": 355,
+      "min_section": 250429,
+      "num": "-",
+      "proscore": 220,
+      "sg_info": "首选物理，再选不限",
+      "sg_name": "（02）",
+      "special_group": "553102",
+      "xclevel_name": "",
+      "zslx_name": "普通类",
+      "diff": 135,
+      "local_type_id": 2073,
+      "local_province_id": 32
+    },
+    {
+      "school_id": 3786,
+      "name": "苏州旅游职业学院",
+      "year": 2025,
+      "local_batch_id": 10,
+      "local_batch_name": "专科批",
+      "local_province_name": "江苏",
+      "local_type_name": "历史类",
+      "min": 351,
+      "min_section": 86271,
+      "num": "-",
+      "proscore": 220,
+      "sg_info": "首选历史，再选不限",
+      "sg_name": "（01）",
+      "special_group": "553100",
+      "xclevel_name": "",
+      "zslx_name": "普通类",
+      "diff": 131,
+      "local_type_id": 2074,
+      "local_province_id": 32
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": 305,
+  "name": "星海音乐学院",
+  "level": "普通本科",
+  "province": "广东",
+  "year": 2025,
+  "count": 1,
+  "records": [
+    {
+      "sp_name": "艺术管理",
+      "remark": "",
+      "min": "547",
+      "min_section": "13590",
+      "average": "-",
+      "is_score_range": 2,
+      "min_range": "-",
+      "min_rank_range": "-",
+      "zslx_name": "普通类",
+      "sg_info": "首选历史，再选不限",
+      "diff": 61,
+      "lq_num": "1",
+      "sg_name": "（101）",
+      "school_special_id": 170248,
+      "school_special_status": 1,
+      "local_type_id": 2074,
+      "local_province_id": 36,
+      "local_batch_id": 14
+    }
+  ]
+}

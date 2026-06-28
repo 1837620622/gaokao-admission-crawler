@@ -1,0 +1,52 @@
+{
+  "id": 3079,
+  "name": "洛阳科技职业学院",
+  "level": "专科（高职）",
+  "province": "河南",
+  "year": 2025,
+  "count": 2,
+  "records": [
+    {
+      "school_id": 3079,
+      "name": "洛阳科技职业学院",
+      "year": 2025,
+      "local_batch_id": 10,
+      "local_batch_name": "专科批",
+      "local_province_name": "黑龙江",
+      "local_type_name": "物理类",
+      "min": 243,
+      "min_section": 113574,
+      "num": "-",
+      "proscore": 160,
+      "sg_info": "首选物理，再选不限",
+      "sg_name": "（002）",
+      "special_group": "266772",
+      "xclevel_name": "",
+      "zslx_name": "普通类",
+      "diff": 83,
+      "local_type_id": 2073,
+      "local_province_id": 23
+    },
+    {
+      "school_id": 3079,
+      "name": "洛阳科技职业学院",
+      "year": 2025,
+      "local_batch_id": 1571,
+      "local_batch_name": "普通类二段",
+      "local_province_name": "山东",
+      "local_type_name": "综合",
+      "min": 174,
+      "min_section": 678543,
+      "num": 60,
+      "proscore": 150,
+      "sg_info": "",
+      "sg_name": "",
+      "special_group": "0",
+      "xclevel_name": "",
+      "zslx_name": "普通类",
+      "diff": 24,
+      "local_type_id": 3,
+      "local_province_id": 37
+    }
+  ]
+}

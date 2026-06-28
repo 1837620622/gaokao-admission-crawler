@@ -1,0 +1,29 @@
+{
+  "id": 200,
+  "name": "鲁迅美术学院",
+  "level": "普通本科",
+  "province": "辽宁",
+  "year": 2025,
+  "count": 1,
+  "records": [
+    {
+      "sp_name": "艺术管理",
+      "remark": "（沈阳校区）",
+      "min": "569",
+      "min_section": "89443",
+      "average": "-",
+      "is_score_range": 2,
+      "min_range": "-",
+      "min_rank_range": "-",
+      "zslx_name": "普通类",
+      "sg_info": "不限",
+      "diff": 79,
+      "lq_num": "1",
+      "school_special_id": 1129945,
+      "school_special_status": 1,
+      "local_type_id": 3,
+      "local_province_id": 33,
+      "local_batch_id": 1570
+    }
+  ]
+}

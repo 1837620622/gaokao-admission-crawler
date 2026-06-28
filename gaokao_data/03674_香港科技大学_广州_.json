@@ -1,0 +1,50 @@
+{
+  "id": 3674,
+  "name": "香港科技大学（广州）",
+  "level": "普通本科",
+  "province": "广东",
+  "year": 2025,
+  "count": 2,
+  "records": [
+    {
+      "sp_name": "人工智能",
+      "remark": "（中外合作办学）（科技创新班。入学不分专业,大二结束在人工智能、数据科学与大数据技术、智能制造工程、材料科学与工程、机器人工程、微电子科学与工程、金融科技专业中选择）",
+      "min": "580",
+      "min_section": "4096",
+      "average": "583",
+      "is_score_range": 2,
+      "min_range": "-",
+      "min_rank_range": "-",
+      "zslx_name": "普通类",
+      "sg_info": "物理、化学(2科必选)",
+      "diff": "-",
+      "lq_num": "5",
+      "sg_name": "（09）",
+      "school_special_id": 2152692,
+      "school_special_status": 1,
+      "local_type_id": 3,
+      "local_province_id": 31,
+      "local_batch_id": 6
+    },
+    {
+      "sp_name": "人工智能",
+      "remark": "（中外合作办学）（领军人才班。入学不分专业,大二结束在人工智能、数据科学与大数据技术、智能制造工程、材料科学与工程、机器人工程、微电子科学与工程、金融科技专业中选择）",
+      "min": "580",
+      "min_section": "4096",
+      "average": "593",
+      "is_score_range": 2,
+      "min_range": "-",
+      "min_rank_range": "-",
+      "zslx_name": "普通类",
+      "sg_info": "物理、化学(2科必选)",
+      "diff": "-",
+      "lq_num": "5",
+      "sg_name": "（09）",
+      "school_special_id": 2152692,
+      "school_special_status": 1,
+      "local_type_id": 3,
+      "local_province_id": 31,
+      "local_batch_id": 6
+    }
+  ]
+}

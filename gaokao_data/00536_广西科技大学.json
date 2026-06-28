@@ -1,0 +1,29 @@
+{
+  "id": 536,
+  "name": "广西科技大学",
+  "level": "普通本科",
+  "province": "广西",
+  "year": 2025,
+  "count": 1,
+  "records": [
+    {
+      "sp_name": "机械工程",
+      "remark": "（中外合作办学）（柳东校区。）",
+      "min": "518",
+      "min_section": "152037",
+      "average": "-",
+      "is_score_range": 2,
+      "min_range": "-",
+      "min_rank_range": "-",
+      "zslx_name": "中外合作",
+      "sg_info": "物理、化学(2科必选)",
+      "diff": 250,
+      "lq_num": "6",
+      "school_special_id": 110944,
+      "school_special_status": 1,
+      "local_type_id": 3,
+      "local_province_id": 33,
+      "local_batch_id": 1571
+    }
+  ]
+}

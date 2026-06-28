@@ -1,0 +1,50 @@
+{
+  "id": 528,
+  "name": "山东建筑大学",
+  "level": "普通本科",
+  "province": "山东",
+  "year": 2025,
+  "count": 2,
+  "records": [
+    {
+      "sp_name": "法学",
+      "remark": "",
+      "min": "544",
+      "min_section": "4262",
+      "average": "-",
+      "is_score_range": 2,
+      "min_range": "-",
+      "min_rank_range": "-",
+      "zslx_name": "普通类",
+      "sg_info": "首选历史，再选不限",
+      "diff": 160,
+      "lq_num": "2",
+      "sg_name": "（001）",
+      "school_special_id": 28701,
+      "school_special_status": 1,
+      "local_type_id": 2074,
+      "local_province_id": 22,
+      "local_batch_id": 14
+    },
+    {
+      "sp_name": "广告学",
+      "remark": "",
+      "min": "538",
+      "min_section": "4754",
+      "average": "-",
+      "is_score_range": 2,
+      "min_range": "-",
+      "min_rank_range": "-",
+      "zslx_name": "普通类",
+      "sg_info": "首选历史，再选不限",
+      "diff": 154,
+      "lq_num": "2",
+      "sg_name": "（001）",
+      "school_special_id": 28703,
+      "school_special_status": 1,
+      "local_type_id": 2074,
+      "local_province_id": 22,
+      "local_batch_id": 14
+    }
+  ]
+}

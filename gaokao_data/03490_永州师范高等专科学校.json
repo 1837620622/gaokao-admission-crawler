@@ -1,0 +1,31 @@
+{
+  "id": 3490,
+  "name": "永州师范高等专科学校",
+  "level": "专科（高职）",
+  "province": "湖南",
+  "year": 2025,
+  "count": 1,
+  "records": [
+    {
+      "school_id": 3490,
+      "name": "永州师范高等专科学校",
+      "year": 2025,
+      "local_batch_id": 10,
+      "local_batch_name": "专科批",
+      "local_province_name": "广东",
+      "local_type_name": "历史类",
+      "min": 380,
+      "min_section": 183721,
+      "num": "-",
+      "proscore": 215,
+      "sg_info": "首选历史，再选不限",
+      "sg_name": "（503）",
+      "special_group": "617401",
+      "xclevel_name": "",
+      "zslx_name": "普通类",
+      "diff": 165,
+      "local_type_id": 2074,
+      "local_province_id": 44
+    }
+  ]
+}

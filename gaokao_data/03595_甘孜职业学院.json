@@ -1,0 +1,31 @@
+{
+  "id": 3595,
+  "name": "甘孜职业学院",
+  "level": "专科（高职）",
+  "province": "四川",
+  "year": 2025,
+  "count": 1,
+  "records": [
+    {
+      "school_id": 3595,
+      "name": "甘孜职业学院",
+      "year": 2025,
+      "local_batch_id": 10,
+      "local_batch_name": "专科批",
+      "local_province_name": "四川",
+      "local_type_name": "物理类",
+      "min": 150,
+      "min_section": 284789,
+      "num": "-",
+      "proscore": 150,
+      "sg_info": "首选物理，再选不限",
+      "sg_name": "（101）",
+      "special_group": "498401",
+      "xclevel_name": "",
+      "zslx_name": "普通类",
+      "diff": 0,
+      "local_type_id": 2073,
+      "local_province_id": 51
+    }
+  ]
+}

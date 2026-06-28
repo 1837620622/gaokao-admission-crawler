@@ -1,0 +1,29 @@
+{
+  "id": 808,
+  "name": "鄂州职业大学",
+  "level": "专科（高职）",
+  "province": "湖北",
+  "year": 2025,
+  "count": 1,
+  "records": [
+    {
+      "sp_name": "小学英语教育",
+      "remark": "（师范）",
+      "min": "490",
+      "min_section": "184372",
+      "average": "-",
+      "is_score_range": 2,
+      "min_range": "-",
+      "min_rank_range": "-",
+      "zslx_name": "普通类",
+      "sg_info": "不限",
+      "diff": 0,
+      "lq_num": "10",
+      "school_special_id": 1535582,
+      "school_special_status": 1,
+      "local_type_id": 3,
+      "local_province_id": 33,
+      "local_batch_id": 1570
+    }
+  ]
+}

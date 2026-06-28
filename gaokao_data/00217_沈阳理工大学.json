@@ -1,0 +1,52 @@
+{
+  "id": 217,
+  "name": "沈阳理工大学",
+  "level": "普通本科",
+  "province": "辽宁",
+  "year": 2025,
+  "count": 2,
+  "records": [
+    {
+      "school_id": 217,
+      "name": "沈阳理工大学",
+      "year": 2025,
+      "local_batch_id": 14,
+      "local_batch_name": "本科批",
+      "local_province_name": "黑龙江",
+      "local_type_name": "历史类",
+      "min": 519,
+      "min_section": 5991,
+      "num": "-",
+      "proscore": 405,
+      "sg_info": "首选历史，再选不限",
+      "sg_name": "（002）",
+      "special_group": "262637",
+      "xclevel_name": "",
+      "zslx_name": "普通类",
+      "diff": 114,
+      "local_type_id": 2074,
+      "local_province_id": 23
+    },
+    {
+      "school_id": 217,
+      "name": "沈阳理工大学",
+      "year": 2025,
+      "local_batch_id": 14,
+      "local_batch_name": "本科批",
+      "local_province_name": "黑龙江",
+      "local_type_name": "历史类",
+      "min": 500,
+      "min_section": 8108,
+      "num": "-",
+      "proscore": 405,
+      "sg_info": "首选历史，再选不限",
+      "sg_name": "（001）",
+      "special_group": "262638",
+      "xclevel_name": "",
+      "zslx_name": "普通类",
+      "diff": 95,
+      "local_type_id": 2074,
+      "local_province_id": 23
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": 1931,
+  "name": "河南质量工程职业学院",
+  "level": "专科（高职）",
+  "province": "河南",
+  "year": 2025,
+  "count": 2,
+  "records": [
+    {
+      "sp_name": "人工智能技术应用",
+      "remark": "（河南省平顶山市）",
+      "min": "329",
+      "min_section": "16797",
+      "average": "341",
+      "is_score_range": 2,
+      "min_range": "-",
+      "min_rank_range": "-",
+      "zslx_name": "普通类",
+      "sg_info": "首选历史，再选不限",
+      "diff": 179,
+      "lq_num": "2",
+      "sg_name": "（001）",
+      "school_special_id": 2165612,
+      "school_special_status": 1,
+      "local_type_id": 2074,
+      "local_province_id": 64,
+      "local_batch_id": 10
+    },
+    {
+      "sp_name": "大数据与会计",
+      "remark": "（河南省平顶山市）",
+      "min": "311",
+      "min_section": "18249",
+      "average": "318",
+      "is_score_range": 2,
+      "min_range": "-",
+      "min_rank_range": "-",
+      "zslx_name": "普通类",
+      "sg_info": "首选历史，再选不限",
+      "diff": 161,
+      "lq_num": "4",
+      "sg_name": "（001）",
+      "school_special_id": 1799699,
+      "school_special_status": 1,
+      "local_type_id": 2074,
+      "local_province_id": 64,
+      "local_batch_id": 10
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": 792,
+  "name": "广安职业技术学院",
+  "level": "专科（高职）",
+  "province": "四川",
+  "year": 2025,
+  "count": 2,
+  "records": [
+    {
+      "sp_name": "护理",
+      "remark": "（学费6300）",
+      "min": "216",
+      "min_section": "-",
+      "average": "279",
+      "is_score_range": 2,
+      "min_range": "-",
+      "min_rank_range": "-",
+      "zslx_name": "护理类",
+      "sg_info": "",
+      "diff": 76,
+      "lq_num": "-",
+      "school_special_id": 38176,
+      "school_special_status": 1,
+      "local_type_id": 2,
+      "local_province_id": 65,
+      "local_batch_id": 10
+    },
+    {
+      "sp_name": "学前教育",
+      "remark": "（学费5200）",
+      "min": "204",
+      "min_section": "-",
+      "average": "255",
+      "is_score_range": 2,
+      "min_range": "-",
+      "min_rank_range": "-",
+      "zslx_name": "普通类",
+      "sg_info": "",
+      "diff": 64,
+      "lq_num": "-",
+      "school_special_id": 126243,
+      "school_special_status": 1,
+      "local_type_id": 2,
+      "local_province_id": 65,
+      "local_batch_id": 10
+    }
+  ]
+}

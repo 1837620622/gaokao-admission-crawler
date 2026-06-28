@@ -1,0 +1,29 @@
+{
+  "id": 1882,
+  "name": "泉州工艺美术职业学院",
+  "level": "专科（高职）",
+  "province": "福建",
+  "year": 2025,
+  "count": 1,
+  "records": [
+    {
+      "sp_name": "休闲服务与管理",
+      "remark": "",
+      "min": "184",
+      "min_section": "23483",
+      "average": "184",
+      "is_score_range": 2,
+      "min_range": "-",
+      "min_rank_range": "-",
+      "zslx_name": "普通类",
+      "sg_info": "",
+      "diff": 44,
+      "lq_num": "1",
+      "school_special_id": 125487,
+      "school_special_status": 1,
+      "local_type_id": 2,
+      "local_province_id": 65,
+      "local_batch_id": 10
+    }
+  ]
+}

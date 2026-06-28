@@ -1,0 +1,31 @@
+{
+  "id": 360,
+  "name": "云南艺术学院",
+  "level": "普通本科",
+  "province": "云南",
+  "year": 2025,
+  "count": 1,
+  "records": [
+    {
+      "school_id": 360,
+      "name": "云南艺术学院",
+      "year": 2025,
+      "local_batch_id": 14,
+      "local_batch_name": "本科批",
+      "local_province_name": "河南",
+      "local_type_name": "历史类",
+      "min": 513,
+      "min_section": 52074,
+      "num": "-",
+      "proscore": 471,
+      "sg_info": "首选历史，再选不限",
+      "sg_name": "（501）",
+      "special_group": "500924",
+      "xclevel_name": "",
+      "zslx_name": "艺术类",
+      "diff": 42,
+      "local_type_id": 2074,
+      "local_province_id": 41
+    }
+  ]
+}

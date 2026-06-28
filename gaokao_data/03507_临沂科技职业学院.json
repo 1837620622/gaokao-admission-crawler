@@ -1,0 +1,31 @@
+{
+  "id": 3507,
+  "name": "临沂科技职业学院",
+  "level": "专科（高职）",
+  "province": "山东",
+  "year": 2025,
+  "count": 1,
+  "records": [
+    {
+      "school_id": 3507,
+      "name": "临沂科技职业学院",
+      "year": 2025,
+      "local_batch_id": 1571,
+      "local_batch_name": "普通类二段",
+      "local_province_name": "浙江",
+      "local_type_name": "综合",
+      "min": 421,
+      "min_section": 242297,
+      "num": "-",
+      "proscore": 268,
+      "sg_info": "",
+      "sg_name": "",
+      "special_group": "0",
+      "xclevel_name": "",
+      "zslx_name": "普通类",
+      "diff": 153,
+      "local_type_id": 3,
+      "local_province_id": 33
+    }
+  ]
+}

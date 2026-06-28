@@ -1,0 +1,30 @@
+{
+  "id": 756,
+  "name": "河北建材职业技术学院",
+  "level": "专科（高职）",
+  "province": "河北",
+  "year": 2025,
+  "count": 1,
+  "records": [
+    {
+      "sp_name": "计算机类",
+      "remark": "（计算机网络技术、软件技术、大数据技术）",
+      "min": "386",
+      "min_section": "206759",
+      "average": "-",
+      "is_score_range": 2,
+      "min_range": "-",
+      "min_rank_range": "-",
+      "zslx_name": "普通类",
+      "sg_info": "首选物理，再选不限",
+      "diff": 146,
+      "lq_num": "2",
+      "sg_name": "（501）",
+      "school_special_id": 1058160,
+      "school_special_status": 2,
+      "local_type_id": 2073,
+      "local_province_id": 36,
+      "local_batch_id": 10
+    }
+  ]
+}

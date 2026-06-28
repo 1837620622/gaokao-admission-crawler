@@ -1,0 +1,31 @@
+{
+  "id": 824,
+  "name": "北京经贸职业学院",
+  "level": "专科（高职）",
+  "province": "北京",
+  "year": 2025,
+  "count": 1,
+  "records": [
+    {
+      "school_id": 824,
+      "name": "北京经贸职业学院",
+      "year": 2025,
+      "local_batch_id": 10,
+      "local_batch_name": "专科批",
+      "local_province_name": "内蒙古",
+      "local_type_name": "历史类",
+      "min": 280,
+      "min_section": 31505,
+      "num": 11,
+      "proscore": 160,
+      "sg_info": "首选历史，再选不限",
+      "sg_name": "（001）",
+      "special_group": "542190",
+      "xclevel_name": "",
+      "zslx_name": "普通类",
+      "diff": 120,
+      "local_type_id": 2074,
+      "local_province_id": 15
+    }
+  ]
+}

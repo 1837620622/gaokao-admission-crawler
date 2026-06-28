@@ -1,0 +1,52 @@
+{
+  "id": 1798,
+  "name": "浙江东方职业技术学院",
+  "level": "专科（高职）",
+  "province": "浙江",
+  "year": 2025,
+  "count": 2,
+  "records": [
+    {
+      "school_id": 1798,
+      "name": "浙江东方职业技术学院",
+      "year": 2025,
+      "local_batch_id": 10,
+      "local_batch_name": "专科批",
+      "local_province_name": "江西",
+      "local_type_name": "历史类",
+      "min": 450,
+      "min_section": 71187,
+      "num": "-",
+      "proscore": 290,
+      "sg_info": "首选历史，再选不限",
+      "sg_name": "（101）",
+      "special_group": "571463",
+      "xclevel_name": "",
+      "zslx_name": "普通类",
+      "diff": 160,
+      "local_type_id": 2074,
+      "local_province_id": 36
+    },
+    {
+      "school_id": 1798,
+      "name": "浙江东方职业技术学院",
+      "year": 2025,
+      "local_batch_id": 10,
+      "local_batch_name": "专科批",
+      "local_province_name": "新疆",
+      "local_type_name": "文科",
+      "min": 158,
+      "min_section": 23874,
+      "num": 3,
+      "proscore": 140,
+      "sg_info": "",
+      "sg_name": "",
+      "special_group": "0",
+      "xclevel_name": "",
+      "zslx_name": "普通类",
+      "diff": 18,
+      "local_type_id": 2,
+      "local_province_id": 65
+    }
+  ]
+}

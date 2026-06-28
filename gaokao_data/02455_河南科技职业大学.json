@@ -1,0 +1,31 @@
+{
+  "id": 2455,
+  "name": "河南科技职业大学",
+  "level": "普通本科",
+  "province": "河南",
+  "year": 2025,
+  "count": 1,
+  "records": [
+    {
+      "school_id": 2455,
+      "name": "河南科技职业大学",
+      "year": 2025,
+      "local_batch_id": 8,
+      "local_batch_name": "本科二批",
+      "local_province_name": "新疆",
+      "local_type_name": "理科",
+      "min": 297,
+      "min_section": 41116,
+      "num": 8,
+      "proscore": 280,
+      "sg_info": "",
+      "sg_name": "",
+      "special_group": "0",
+      "xclevel_name": "",
+      "zslx_name": "普通类",
+      "diff": 17,
+      "local_type_id": 1,
+      "local_province_id": 65
+    }
+  ]
+}

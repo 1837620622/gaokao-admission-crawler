@@ -1,0 +1,52 @@
+{
+  "id": 669,
+  "name": "上海东海职业技术学院",
+  "level": "专科（高职）",
+  "province": "上海",
+  "year": 2025,
+  "count": 2,
+  "records": [
+    {
+      "school_id": 669,
+      "name": "上海东海职业技术学院",
+      "year": 2025,
+      "local_batch_id": 10,
+      "local_batch_name": "专科批",
+      "local_province_name": "福建",
+      "local_type_name": "历史类",
+      "min": 307,
+      "min_section": 55207,
+      "num": "-",
+      "proscore": 235,
+      "sg_info": "",
+      "sg_name": "",
+      "special_group": "0",
+      "xclevel_name": "",
+      "zslx_name": "普通类",
+      "diff": 72,
+      "local_type_id": 2074,
+      "local_province_id": 35
+    },
+    {
+      "school_id": 669,
+      "name": "上海东海职业技术学院",
+      "year": 2025,
+      "local_batch_id": 10,
+      "local_batch_name": "专科批",
+      "local_province_name": "湖南",
+      "local_type_name": "历史类",
+      "min": 325,
+      "min_section": 116214,
+      "num": "-",
+      "proscore": 200,
+      "sg_info": "首选历史，再选不限",
+      "sg_name": "（101）",
+      "special_group": "585518",
+      "xclevel_name": "",
+      "zslx_name": "普通类",
+      "diff": 125,
+      "local_type_id": 2074,
+      "local_province_id": 43
+    }
+  ]
+}

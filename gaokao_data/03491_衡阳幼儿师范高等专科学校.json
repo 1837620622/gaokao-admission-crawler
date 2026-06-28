@@ -1,0 +1,30 @@
+{
+  "id": 3491,
+  "name": "衡阳幼儿师范高等专科学校",
+  "level": "专科（高职）",
+  "province": "湖南",
+  "year": 2025,
+  "count": 1,
+  "records": [
+    {
+      "sp_name": "融媒体技术与运营",
+      "remark": "（办学地点：校本部）",
+      "min": "391",
+      "min_section": "171041",
+      "average": "-",
+      "is_score_range": 2,
+      "min_range": "-",
+      "min_rank_range": "-",
+      "zslx_name": "普通类",
+      "sg_info": "首选历史，再选不限",
+      "diff": 176,
+      "lq_num": "3",
+      "sg_name": "（503）",
+      "school_special_id": 2167364,
+      "school_special_status": 1,
+      "local_type_id": 2074,
+      "local_province_id": 44,
+      "local_batch_id": 10
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": 3811,
+  "name": "宁波东方理工大学",
+  "level": "普通本科",
+  "province": "浙江",
+  "year": 2025,
+  "count": 1,
+  "records": [
+    {
+      "school_id": 3811,
+      "name": "宁波东方理工大学",
+      "year": 2025,
+      "local_batch_id": 1570,
+      "local_batch_name": "普通类一段",
+      "local_province_name": "浙江",
+      "local_type_name": "综合",
+      "min": 656,
+      "min_section": 8518,
+      "num": "-",
+      "proscore": 490,
+      "sg_info": "",
+      "sg_name": "",
+      "special_group": "0",
+      "xclevel_name": "",
+      "zslx_name": "普通类",
+      "diff": 166,
+      "local_type_id": 3,
+      "local_province_id": 33
+    }
+  ]
+}

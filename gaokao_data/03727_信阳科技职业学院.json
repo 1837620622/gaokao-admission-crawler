@@ -1,0 +1,31 @@
+{
+  "id": 3727,
+  "name": "信阳科技职业学院",
+  "level": "专科（高职）",
+  "province": "河南",
+  "year": 2025,
+  "count": 1,
+  "records": [
+    {
+      "school_id": 3727,
+      "name": "信阳科技职业学院",
+      "year": 2025,
+      "local_batch_id": 10,
+      "local_batch_name": "专科批",
+      "local_province_name": "河南",
+      "local_type_name": "物理类",
+      "min": 191,
+      "min_section": 553231,
+      "num": "-",
+      "proscore": 185,
+      "sg_info": "首选物理，再选不限",
+      "sg_name": "（102）",
+      "special_group": "508425",
+      "xclevel_name": "",
+      "zslx_name": "普通类",
+      "diff": 6,
+      "local_type_id": 2073,
+      "local_province_id": 41
+    }
+  ]
+}

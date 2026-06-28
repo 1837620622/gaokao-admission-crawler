@@ -1,0 +1,52 @@
+{
+  "id": 3809,
+  "name": "阜康职业技术学院",
+  "level": "专科（高职）",
+  "province": "新疆",
+  "year": 2025,
+  "count": 2,
+  "records": [
+    {
+      "school_id": 3809,
+      "name": "阜康职业技术学院",
+      "year": 2025,
+      "local_batch_id": 10,
+      "local_batch_name": "专科批",
+      "local_province_name": "新疆",
+      "local_type_name": "理科",
+      "min": 140,
+      "min_section": 52534,
+      "num": 69,
+      "proscore": 140,
+      "sg_info": "",
+      "sg_name": "",
+      "special_group": "0",
+      "xclevel_name": "",
+      "zslx_name": "普通类",
+      "diff": 0,
+      "local_type_id": 1,
+      "local_province_id": 65
+    },
+    {
+      "school_id": 3809,
+      "name": "阜康职业技术学院",
+      "year": 2025,
+      "local_batch_id": 10,
+      "local_batch_name": "专科批",
+      "local_province_name": "新疆",
+      "local_type_name": "理科",
+      "min": 157,
+      "min_section": 52471,
+      "num": 74,
+      "proscore": 140,
+      "sg_info": "",
+      "sg_name": "",
+      "special_group": "0",
+      "xclevel_name": "",
+      "zslx_name": "单列类",
+      "diff": 17,
+      "local_type_id": 1,
+      "local_province_id": 65
+    }
+  ]
+}

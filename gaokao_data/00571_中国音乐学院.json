@@ -1,0 +1,30 @@
+{
+  "id": 571,
+  "name": "中国音乐学院",
+  "level": "普通本科",
+  "province": "北京",
+  "year": 2025,
+  "count": 1,
+  "records": [
+    {
+      "sp_name": "艺术管理",
+      "remark": "",
+      "min": "545",
+      "min_section": "25410",
+      "average": "-",
+      "is_score_range": 2,
+      "min_range": "-",
+      "min_rank_range": "-",
+      "zslx_name": "普通类",
+      "sg_info": "不限",
+      "diff": 115,
+      "lq_num": "24",
+      "sg_name": "（01）",
+      "school_special_id": 1800377,
+      "school_special_status": 1,
+      "local_type_id": 3,
+      "local_province_id": 11,
+      "local_batch_id": 14
+    }
+  ]
+}

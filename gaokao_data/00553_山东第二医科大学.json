@@ -1,0 +1,52 @@
+{
+  "id": 553,
+  "name": "山东第二医科大学",
+  "level": "普通本科",
+  "province": "山东",
+  "year": 2025,
+  "count": 2,
+  "records": [
+    {
+      "school_id": 553,
+      "name": "山东第二医科大学",
+      "year": 2025,
+      "local_batch_id": 3453,
+      "local_batch_name": "本科批C段",
+      "local_province_name": "甘肃",
+      "local_type_name": "物理类",
+      "min": 477,
+      "min_section": 38697,
+      "num": "-",
+      "proscore": 374,
+      "sg_info": "首选物理，再选不限",
+      "sg_name": "（001）",
+      "special_group": "600861",
+      "xclevel_name": "",
+      "zslx_name": "普通类",
+      "diff": 103,
+      "local_type_id": 2073,
+      "local_province_id": 62
+    },
+    {
+      "school_id": 553,
+      "name": "山东第二医科大学",
+      "year": 2025,
+      "local_batch_id": 3453,
+      "local_batch_name": "本科批C段",
+      "local_province_name": "甘肃",
+      "local_type_name": "物理类",
+      "min": 474,
+      "min_section": 40132,
+      "num": "-",
+      "proscore": 374,
+      "sg_info": "首选物理，再选化学",
+      "sg_name": "（002）",
+      "special_group": "600863",
+      "xclevel_name": "",
+      "zslx_name": "普通类",
+      "diff": 100,
+      "local_type_id": 2073,
+      "local_province_id": 62
+    }
+  ]
+}

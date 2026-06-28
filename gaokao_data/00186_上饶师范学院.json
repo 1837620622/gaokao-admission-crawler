@@ -1,0 +1,52 @@
+{
+  "id": 186,
+  "name": "上饶师范学院",
+  "level": "普通本科",
+  "province": "江西",
+  "year": 2025,
+  "count": 2,
+  "records": [
+    {
+      "school_id": 186,
+      "name": "上饶师范学院",
+      "year": 2025,
+      "local_batch_id": 14,
+      "local_batch_name": "本科批",
+      "local_province_name": "北京",
+      "local_type_name": "综合",
+      "min": 477,
+      "min_section": 43593,
+      "num": "-",
+      "proscore": 430,
+      "sg_info": "不限",
+      "sg_name": "（02）",
+      "special_group": "476963",
+      "xclevel_name": "",
+      "zslx_name": "普通类",
+      "diff": 47,
+      "local_type_id": 3,
+      "local_province_id": 11
+    },
+    {
+      "school_id": 186,
+      "name": "上饶师范学院",
+      "year": 2025,
+      "local_batch_id": 14,
+      "local_batch_name": "本科批",
+      "local_province_name": "北京",
+      "local_type_name": "综合",
+      "min": 475,
+      "min_section": 44121,
+      "num": "-",
+      "proscore": 430,
+      "sg_info": "不限",
+      "sg_name": "（01）",
+      "special_group": "476959",
+      "xclevel_name": "",
+      "zslx_name": "普通类",
+      "diff": 45,
+      "local_type_id": 3,
+      "local_province_id": 11
+    }
+  ]
+}

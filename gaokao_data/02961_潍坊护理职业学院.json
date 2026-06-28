@@ -1,0 +1,51 @@
+{
+  "id": 2961,
+  "name": "潍坊护理职业学院",
+  "level": "专科（高职）",
+  "province": "山东",
+  "year": 2025,
+  "count": 2,
+  "records": [
+    {
+      "sp_name": "护理",
+      "remark": "（青州）",
+      "min": "384",
+      "min_section": "49052",
+      "average": "-",
+      "is_score_range": 2,
+      "min_range": "-",
+      "min_rank_range": "-",
+      "zslx_name": "普通类",
+      "sg_info": "首选历史，再选不限",
+      "diff": 284,
+      "lq_num": "-",
+      "sg_name": "（001）",
+      "school_special_id": 86277,
+      "school_special_status": 1,
+      "local_type_id": 2074,
+      "local_province_id": 14,
+      "local_batch_id": 10
+    },
+    {
+      "school_id": 2961,
+      "name": "潍坊护理职业学院",
+      "year": 2025,
+      "local_batch_id": 10,
+      "local_batch_name": "专科批",
+      "local_province_name": "陕西",
+      "local_type_name": "历史类",
+      "min": 379,
+      "min_section": 52746,
+      "num": 4,
+      "proscore": 200,
+      "sg_info": "首选历史，再选不限",
+      "sg_name": "（101）",
+      "special_group": "523916",
+      "xclevel_name": "",
+      "zslx_name": "普通类",
+      "diff": 179,
+      "local_type_id": 2074,
+      "local_province_id": 61
+    }
+  ]
+}

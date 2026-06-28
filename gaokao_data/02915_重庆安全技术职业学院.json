@@ -1,0 +1,52 @@
+{
+  "id": 2915,
+  "name": "重庆安全技术职业学院",
+  "level": "专科（高职）",
+  "province": "重庆",
+  "year": 2025,
+  "count": 2,
+  "records": [
+    {
+      "school_id": 2915,
+      "name": "重庆安全技术职业学院",
+      "year": 2025,
+      "local_batch_id": 10,
+      "local_batch_name": "专科批",
+      "local_province_name": "四川",
+      "local_type_name": "历史类",
+      "min": 396,
+      "min_section": 118744,
+      "num": "-",
+      "proscore": 150,
+      "sg_info": "首选历史，再选不限",
+      "sg_name": "（101）",
+      "special_group": "497672",
+      "xclevel_name": "",
+      "zslx_name": "普通类",
+      "diff": 246,
+      "local_type_id": 2074,
+      "local_province_id": 51
+    },
+    {
+      "school_id": 2915,
+      "name": "重庆安全技术职业学院",
+      "year": 2025,
+      "local_batch_id": 10,
+      "local_batch_name": "专科批",
+      "local_province_name": "四川",
+      "local_type_name": "历史类",
+      "min": 391,
+      "min_section": 122032,
+      "num": "-",
+      "proscore": 150,
+      "sg_info": "首选历史，再选不限",
+      "sg_name": "（102）",
+      "special_group": "497677",
+      "xclevel_name": "",
+      "zslx_name": "普通类",
+      "diff": 241,
+      "local_type_id": 2074,
+      "local_province_id": 51
+    }
+  ]
+}

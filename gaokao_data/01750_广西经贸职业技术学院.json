@@ -1,0 +1,31 @@
+{
+  "id": 1750,
+  "name": "广西经贸职业技术学院",
+  "level": "专科（高职）",
+  "province": "广西",
+  "year": 2025,
+  "count": 1,
+  "records": [
+    {
+      "school_id": 1750,
+      "name": "广西经贸职业技术学院",
+      "year": 2025,
+      "local_batch_id": 10,
+      "local_batch_name": "专科批",
+      "local_province_name": "广西",
+      "local_type_name": "物理类",
+      "min": 322,
+      "min_section": 216933,
+      "num": "-",
+      "proscore": 200,
+      "sg_info": "首选物理，再选不限",
+      "sg_name": "（151）",
+      "special_group": "595702",
+      "xclevel_name": "",
+      "zslx_name": "普通类",
+      "diff": 122,
+      "local_type_id": 2073,
+      "local_province_id": 45
+    }
+  ]
+}

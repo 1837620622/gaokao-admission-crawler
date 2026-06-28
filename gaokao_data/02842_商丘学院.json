@@ -1,0 +1,52 @@
+{
+  "id": 2842,
+  "name": "商丘学院",
+  "level": "普通本科",
+  "province": "河南",
+  "year": 2025,
+  "count": 2,
+  "records": [
+    {
+      "school_id": 2842,
+      "name": "商丘学院",
+      "year": 2025,
+      "local_batch_id": 47,
+      "local_batch_name": "本科批B段",
+      "local_province_name": "天津",
+      "local_type_name": "综合",
+      "min": 491,
+      "min_section": 42851,
+      "num": "-",
+      "proscore": "-",
+      "sg_info": "不限",
+      "sg_name": "（01）",
+      "special_group": "530514",
+      "xclevel_name": "",
+      "zslx_name": "普通类",
+      "diff": "-",
+      "local_type_id": 3,
+      "local_province_id": 12
+    },
+    {
+      "school_id": 2842,
+      "name": "商丘学院",
+      "year": 2025,
+      "local_batch_id": 47,
+      "local_batch_name": "本科批B段",
+      "local_province_name": "天津",
+      "local_type_name": "综合",
+      "min": 479,
+      "min_section": 46331,
+      "num": "-",
+      "proscore": "-",
+      "sg_info": "物理、化学(2科必选)",
+      "sg_name": "（02）",
+      "special_group": "530516",
+      "xclevel_name": "",
+      "zslx_name": "普通类",
+      "diff": "-",
+      "local_type_id": 3,
+      "local_province_id": 12
+    }
+  ]
+}

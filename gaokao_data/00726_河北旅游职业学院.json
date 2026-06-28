@@ -1,0 +1,52 @@
+{
+  "id": 726,
+  "name": "河北旅游职业学院",
+  "level": "专科（高职）",
+  "province": "河北",
+  "year": 2025,
+  "count": 2,
+  "records": [
+    {
+      "school_id": 726,
+      "name": "河北旅游职业学院",
+      "year": 2025,
+      "local_batch_id": 10,
+      "local_batch_name": "专科批",
+      "local_province_name": "吉林",
+      "local_type_name": "物理类",
+      "min": 225,
+      "min_section": 78610,
+      "num": 15,
+      "proscore": 160,
+      "sg_info": "首选物理，再选不限",
+      "sg_name": "（002）",
+      "special_group": "480921",
+      "xclevel_name": "",
+      "zslx_name": "普通类",
+      "diff": 65,
+      "local_type_id": 2073,
+      "local_province_id": 22
+    },
+    {
+      "school_id": 726,
+      "name": "河北旅游职业学院",
+      "year": 2025,
+      "local_batch_id": 10,
+      "local_batch_name": "专科批",
+      "local_province_name": "重庆",
+      "local_type_name": "物理类",
+      "min": 351,
+      "min_section": 126882,
+      "num": "-",
+      "proscore": 180,
+      "sg_info": "",
+      "sg_name": "",
+      "special_group": "0",
+      "xclevel_name": "",
+      "zslx_name": "普通类",
+      "diff": 171,
+      "local_type_id": 2073,
+      "local_province_id": 50
+    }
+  ]
+}

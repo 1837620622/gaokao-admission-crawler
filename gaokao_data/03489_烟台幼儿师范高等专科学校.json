@@ -1,0 +1,52 @@
+{
+  "id": 3489,
+  "name": "烟台幼儿师范高等专科学校",
+  "level": "专科（高职）",
+  "province": "山东",
+  "year": 2025,
+  "count": 2,
+  "records": [
+    {
+      "school_id": 3489,
+      "name": "烟台幼儿师范高等专科学校",
+      "year": 2025,
+      "local_batch_id": 1571,
+      "local_batch_name": "普通类二段",
+      "local_province_name": "山东",
+      "local_type_name": "综合",
+      "min": 312,
+      "min_section": 581463,
+      "num": 1660,
+      "proscore": 150,
+      "sg_info": "",
+      "sg_name": "",
+      "special_group": "0",
+      "xclevel_name": "",
+      "zslx_name": "普通类",
+      "diff": 162,
+      "local_type_id": 3,
+      "local_province_id": 37
+    },
+    {
+      "school_id": 3489,
+      "name": "烟台幼儿师范高等专科学校",
+      "year": 2025,
+      "local_batch_id": 1571,
+      "local_batch_name": "普通类二段",
+      "local_province_name": "山东",
+      "local_type_name": "综合",
+      "min": 480,
+      "min_section": 235908,
+      "num": 30,
+      "proscore": 150,
+      "sg_info": "",
+      "sg_name": "",
+      "special_group": "0",
+      "xclevel_name": "",
+      "zslx_name": "高职3+2贯通培养",
+      "diff": 330,
+      "local_type_id": 3,
+      "local_province_id": 37
+    }
+  ]
+}

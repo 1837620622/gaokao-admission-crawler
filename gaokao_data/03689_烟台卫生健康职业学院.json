@@ -1,0 +1,52 @@
+{
+  "id": 3689,
+  "name": "烟台卫生健康职业学院",
+  "level": "专科（高职）",
+  "province": "山东",
+  "year": 2025,
+  "count": 2,
+  "records": [
+    {
+      "school_id": 3689,
+      "name": "烟台卫生健康职业学院",
+      "year": 2025,
+      "local_batch_id": 1571,
+      "local_batch_name": "普通类二段",
+      "local_province_name": "山东",
+      "local_type_name": "综合",
+      "min": 335,
+      "min_section": 546267,
+      "num": 1800,
+      "proscore": 150,
+      "sg_info": "",
+      "sg_name": "",
+      "special_group": "0",
+      "xclevel_name": "",
+      "zslx_name": "普通类",
+      "diff": 185,
+      "local_type_id": 3,
+      "local_province_id": 37
+    },
+    {
+      "school_id": 3689,
+      "name": "烟台卫生健康职业学院",
+      "year": 2025,
+      "local_batch_id": 1571,
+      "local_batch_name": "普通类二段",
+      "local_province_name": "山东",
+      "local_type_name": "综合",
+      "min": 386,
+      "min_section": 452457,
+      "num": 600,
+      "proscore": 150,
+      "sg_info": "",
+      "sg_name": "",
+      "special_group": "0",
+      "xclevel_name": "",
+      "zslx_name": "护理类",
+      "diff": 236,
+      "local_type_id": 3,
+      "local_province_id": 37
+    }
+  ]
+}

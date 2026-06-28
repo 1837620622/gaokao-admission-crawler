@@ -1,0 +1,52 @@
+{
+  "id": 1944,
+  "name": "郑州电力职业技术学院",
+  "level": "专科（高职）",
+  "province": "河南",
+  "year": 2025,
+  "count": 2,
+  "records": [
+    {
+      "school_id": 1944,
+      "name": "郑州电力职业技术学院",
+      "year": 2025,
+      "local_batch_id": 10,
+      "local_batch_name": "专科批",
+      "local_province_name": "江苏",
+      "local_type_name": "物理类",
+      "min": 409,
+      "min_section": 238640,
+      "num": "-",
+      "proscore": 220,
+      "sg_info": "首选物理，再选不限",
+      "sg_name": "（02）",
+      "special_group": "551624",
+      "xclevel_name": "",
+      "zslx_name": "普通类",
+      "diff": 189,
+      "local_type_id": 2073,
+      "local_province_id": 32
+    },
+    {
+      "school_id": 1944,
+      "name": "郑州电力职业技术学院",
+      "year": 2025,
+      "local_batch_id": 10,
+      "local_batch_name": "专科批",
+      "local_province_name": "陕西",
+      "local_type_name": "物理类",
+      "min": 353,
+      "min_section": 147339,
+      "num": 8,
+      "proscore": 200,
+      "sg_info": "首选物理，再选不限",
+      "sg_name": "（102）",
+      "special_group": "522877",
+      "xclevel_name": "",
+      "zslx_name": "普通类",
+      "diff": 153,
+      "local_type_id": 2073,
+      "local_province_id": 61
+    }
+  ]
+}

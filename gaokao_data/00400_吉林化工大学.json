@@ -1,0 +1,52 @@
+{
+  "id": 400,
+  "name": "吉林化工大学",
+  "level": "普通本科",
+  "province": "吉林",
+  "year": 2025,
+  "count": 2,
+  "records": [
+    {
+      "school_id": 400,
+      "name": "吉林化工大学",
+      "year": 2025,
+      "local_batch_id": 14,
+      "local_batch_name": "本科批",
+      "local_province_name": "湖北",
+      "local_type_name": "物理类",
+      "min": 489,
+      "min_section": 96218,
+      "num": "-",
+      "proscore": 426,
+      "sg_info": "首选物理，再选化学",
+      "sg_name": "（02）",
+      "special_group": "575799",
+      "xclevel_name": "",
+      "zslx_name": "普通类",
+      "diff": 63,
+      "local_type_id": 2073,
+      "local_province_id": 42
+    },
+    {
+      "school_id": 400,
+      "name": "吉林化工大学",
+      "year": 2025,
+      "local_batch_id": 14,
+      "local_batch_name": "本科批",
+      "local_province_name": "湖北",
+      "local_type_name": "物理类",
+      "min": 488,
+      "min_section": 97095,
+      "num": "-",
+      "proscore": 426,
+      "sg_info": "首选物理，再选不限",
+      "sg_name": "（01）",
+      "special_group": "575790",
+      "xclevel_name": "",
+      "zslx_name": "普通类",
+      "diff": 62,
+      "local_type_id": 2073,
+      "local_province_id": 42
+    }
+  ]
+}

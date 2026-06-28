@@ -1,0 +1,52 @@
+{
+  "id": 2418,
+  "name": "合肥信息技术职业学院",
+  "level": "专科（高职）",
+  "province": "安徽",
+  "year": 2025,
+  "count": 2,
+  "records": [
+    {
+      "school_id": 2418,
+      "name": "合肥信息技术职业学院",
+      "year": 2025,
+      "local_batch_id": 10,
+      "local_batch_name": "专科批",
+      "local_province_name": "安徽",
+      "local_type_name": "物理类",
+      "min": 294,
+      "min_section": 309988,
+      "num": 1103,
+      "proscore": 200,
+      "sg_info": "首选物理，再选不限",
+      "sg_name": "（001）",
+      "special_group": "560111",
+      "xclevel_name": "",
+      "zslx_name": "普通类",
+      "diff": 94,
+      "local_type_id": 2073,
+      "local_province_id": 34
+    },
+    {
+      "school_id": 2418,
+      "name": "合肥信息技术职业学院",
+      "year": 2025,
+      "local_batch_id": 10,
+      "local_batch_name": "专科批",
+      "local_province_name": "安徽",
+      "local_type_name": "历史类",
+      "min": 295,
+      "min_section": 126889,
+      "num": 680,
+      "proscore": 200,
+      "sg_info": "首选历史，再选不限",
+      "sg_name": "（001）",
+      "special_group": "560115",
+      "xclevel_name": "",
+      "zslx_name": "普通类",
+      "diff": 95,
+      "local_type_id": 2074,
+      "local_province_id": 34
+    }
+  ]
+}

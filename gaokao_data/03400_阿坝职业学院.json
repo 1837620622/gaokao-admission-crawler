@@ -1,0 +1,52 @@
+{
+  "id": 3400,
+  "name": "阿坝职业学院",
+  "level": "专科（高职）",
+  "province": "四川",
+  "year": 2025,
+  "count": 2,
+  "records": [
+    {
+      "school_id": 3400,
+      "name": "阿坝职业学院",
+      "year": 2025,
+      "local_batch_id": 10,
+      "local_batch_name": "专科批",
+      "local_province_name": "云南",
+      "local_type_name": "历史类",
+      "min": 428,
+      "min_section": 60501,
+      "num": 9,
+      "proscore": 180,
+      "sg_info": "首选历史，再选不限",
+      "sg_name": "（02）",
+      "special_group": "515753",
+      "xclevel_name": "",
+      "zslx_name": "普通类",
+      "diff": 248,
+      "local_type_id": 2074,
+      "local_province_id": 53
+    },
+    {
+      "school_id": 3400,
+      "name": "阿坝职业学院",
+      "year": 2025,
+      "local_batch_id": 10,
+      "local_batch_name": "专科批",
+      "local_province_name": "云南",
+      "local_type_name": "历史类",
+      "min": 398,
+      "min_section": 75387,
+      "num": 7,
+      "proscore": 180,
+      "sg_info": "首选历史，再选不限",
+      "sg_name": "（01）",
+      "special_group": "515741",
+      "xclevel_name": "",
+      "zslx_name": "普通类",
+      "diff": 218,
+      "local_type_id": 2074,
+      "local_province_id": 53
+    }
+  ]
+}

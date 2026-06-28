@@ -1,0 +1,31 @@
+{
+  "id": 716,
+  "name": "黑龙江职业学院",
+  "level": "专科（高职）",
+  "province": "黑龙江",
+  "year": 2025,
+  "count": 1,
+  "records": [
+    {
+      "school_id": 716,
+      "name": "黑龙江职业学院",
+      "year": 2025,
+      "local_batch_id": 10,
+      "local_batch_name": "专科批",
+      "local_province_name": "辽宁",
+      "local_type_name": "历史类",
+      "min": 345,
+      "min_section": 44485,
+      "num": "-",
+      "proscore": "-",
+      "sg_info": "",
+      "sg_name": "",
+      "special_group": "0",
+      "xclevel_name": "",
+      "zslx_name": "普通类",
+      "diff": "-",
+      "local_type_id": 2074,
+      "local_province_id": 21
+    }
+  ]
+}

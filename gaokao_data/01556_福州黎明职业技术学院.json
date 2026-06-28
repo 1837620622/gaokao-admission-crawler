@@ -1,0 +1,51 @@
+{
+  "id": 1556,
+  "name": "福州黎明职业技术学院",
+  "level": "专科（高职）",
+  "province": "福建",
+  "year": 2025,
+  "count": 2,
+  "records": [
+    {
+      "sp_name": "动漫设计",
+      "remark": "",
+      "min": "256",
+      "min_section": "316973",
+      "average": "307",
+      "is_score_range": 2,
+      "min_range": "-",
+      "min_rank_range": "-",
+      "zslx_name": "普通类",
+      "sg_info": "首选物理，再选不限",
+      "diff": 56,
+      "lq_num": "-",
+      "sg_name": "（001）",
+      "school_special_id": 1392813,
+      "school_special_status": 1,
+      "local_type_id": 2073,
+      "local_province_id": 34,
+      "local_batch_id": 10
+    },
+    {
+      "school_id": 1556,
+      "name": "福州黎明职业技术学院",
+      "year": 2025,
+      "local_batch_id": 10,
+      "local_batch_name": "专科批",
+      "local_province_name": "广西",
+      "local_type_name": "历史类",
+      "min": 280,
+      "min_section": 108290,
+      "num": "-",
+      "proscore": 200,
+      "sg_info": "首选历史，再选不限",
+      "sg_name": "（101）",
+      "special_group": "595291",
+      "xclevel_name": "",
+      "zslx_name": "普通类",
+      "diff": 80,
+      "local_type_id": 2074,
+      "local_province_id": 45
+    }
+  ]
+}

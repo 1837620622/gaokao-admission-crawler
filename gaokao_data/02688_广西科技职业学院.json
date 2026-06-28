@@ -1,0 +1,52 @@
+{
+  "id": 2688,
+  "name": "广西科技职业学院",
+  "level": "专科（高职）",
+  "province": "广西",
+  "year": 2025,
+  "count": 2,
+  "records": [
+    {
+      "school_id": 2688,
+      "name": "广西科技职业学院",
+      "year": 2025,
+      "local_batch_id": 1571,
+      "local_batch_name": "普通类二段",
+      "local_province_name": "山东",
+      "local_type_name": "综合",
+      "min": 242,
+      "min_section": 654072,
+      "num": 2,
+      "proscore": 150,
+      "sg_info": "",
+      "sg_name": "",
+      "special_group": "0",
+      "xclevel_name": "",
+      "zslx_name": "普通类",
+      "diff": 92,
+      "local_type_id": 3,
+      "local_province_id": 37
+    },
+    {
+      "school_id": 2688,
+      "name": "广西科技职业学院",
+      "year": 2025,
+      "local_batch_id": 10,
+      "local_batch_name": "专科批",
+      "local_province_name": "广西",
+      "local_type_name": "物理类",
+      "min": 268,
+      "min_section": 246922,
+      "num": "-",
+      "proscore": 200,
+      "sg_info": "首选物理，再选不限",
+      "sg_name": "（101）",
+      "special_group": "597089",
+      "xclevel_name": "",
+      "zslx_name": "普通类",
+      "diff": 68,
+      "local_type_id": 2073,
+      "local_province_id": 45
+    }
+  ]
+}

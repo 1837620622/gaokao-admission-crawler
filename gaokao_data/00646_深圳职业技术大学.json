@@ -1,0 +1,52 @@
+{
+  "id": 646,
+  "name": "深圳职业技术大学",
+  "level": "普通本科",
+  "province": "广东",
+  "year": 2025,
+  "count": 2,
+  "records": [
+    {
+      "school_id": 646,
+      "name": "深圳职业技术大学",
+      "year": 2025,
+      "local_batch_id": 14,
+      "local_batch_name": "本科批",
+      "local_province_name": "湖北",
+      "local_type_name": "物理类",
+      "min": 562,
+      "min_section": 35579,
+      "num": "-",
+      "proscore": 426,
+      "sg_info": "首选物理，再选不限",
+      "sg_name": "（01）",
+      "special_group": "576990",
+      "xclevel_name": "",
+      "zslx_name": "普通类",
+      "diff": 136,
+      "local_type_id": 2073,
+      "local_province_id": 42
+    },
+    {
+      "school_id": 646,
+      "name": "深圳职业技术大学",
+      "year": 2025,
+      "local_batch_id": 10,
+      "local_batch_name": "专科批",
+      "local_province_name": "湖北",
+      "local_type_name": "物理类",
+      "min": 475,
+      "min_section": 108619,
+      "num": "-",
+      "proscore": 200,
+      "sg_info": "首选物理，再选不限",
+      "sg_name": "（03）",
+      "special_group": "576998",
+      "xclevel_name": "",
+      "zslx_name": "普通类",
+      "diff": 275,
+      "local_type_id": 2073,
+      "local_province_id": 42
+    }
+  ]
+}

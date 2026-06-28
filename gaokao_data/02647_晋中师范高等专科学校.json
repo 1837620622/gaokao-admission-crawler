@@ -1,0 +1,31 @@
+{
+  "id": 2647,
+  "name": "晋中师范高等专科学校",
+  "level": "专科（高职）",
+  "province": "山西",
+  "year": 2025,
+  "count": 1,
+  "records": [
+    {
+      "school_id": 2647,
+      "name": "晋中师范高等专科学校",
+      "year": 2025,
+      "local_batch_id": 10,
+      "local_batch_name": "专科批",
+      "local_province_name": "宁夏",
+      "local_type_name": "历史类",
+      "min": 231,
+      "min_section": 21142,
+      "num": "-",
+      "proscore": 150,
+      "sg_info": "首选历史，再选不限",
+      "sg_name": "（001）",
+      "special_group": "608645",
+      "xclevel_name": "",
+      "zslx_name": "普通类",
+      "diff": 81,
+      "local_type_id": 2074,
+      "local_province_id": 64
+    }
+  ]
+}

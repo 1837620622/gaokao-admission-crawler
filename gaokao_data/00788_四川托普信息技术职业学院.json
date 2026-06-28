@@ -1,0 +1,31 @@
+{
+  "id": 788,
+  "name": "四川托普信息技术职业学院",
+  "level": "专科（高职）",
+  "province": "四川",
+  "year": 2025,
+  "count": 1,
+  "records": [
+    {
+      "school_id": 788,
+      "name": "四川托普信息技术职业学院",
+      "year": 2025,
+      "local_batch_id": 10,
+      "local_batch_name": "专科批",
+      "local_province_name": "贵州",
+      "local_type_name": "物理类",
+      "min": 244,
+      "min_section": 204003,
+      "num": 2,
+      "proscore": 180,
+      "sg_info": "",
+      "sg_name": "",
+      "special_group": "0",
+      "xclevel_name": "",
+      "zslx_name": "普通类",
+      "diff": 64,
+      "local_type_id": 2073,
+      "local_province_id": 52
+    }
+  ]
+}

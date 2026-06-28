@@ -1,0 +1,52 @@
+{
+  "id": 2539,
+  "name": "南京旅游职业学院",
+  "level": "专科（高职）",
+  "province": "江苏",
+  "year": 2025,
+  "count": 2,
+  "records": [
+    {
+      "school_id": 2539,
+      "name": "南京旅游职业学院",
+      "year": 2025,
+      "local_batch_id": 1570,
+      "local_batch_name": "普通类一段",
+      "local_province_name": "浙江",
+      "local_type_name": "综合",
+      "min": 493,
+      "min_section": 181070,
+      "num": "-",
+      "proscore": 490,
+      "sg_info": "",
+      "sg_name": "",
+      "special_group": "0",
+      "xclevel_name": "",
+      "zslx_name": "普通类",
+      "diff": 3,
+      "local_type_id": 3,
+      "local_province_id": 33
+    },
+    {
+      "school_id": 2539,
+      "name": "南京旅游职业学院",
+      "year": 2025,
+      "local_batch_id": 1571,
+      "local_batch_name": "普通类二段",
+      "local_province_name": "浙江",
+      "local_type_name": "综合",
+      "min": 462,
+      "min_section": 212190,
+      "num": "-",
+      "proscore": 268,
+      "sg_info": "",
+      "sg_name": "",
+      "special_group": "0",
+      "xclevel_name": "",
+      "zslx_name": "普通类",
+      "diff": 194,
+      "local_type_id": 3,
+      "local_province_id": 33
+    }
+  ]
+}

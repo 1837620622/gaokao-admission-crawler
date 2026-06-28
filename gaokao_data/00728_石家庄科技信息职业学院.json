@@ -1,0 +1,52 @@
+{
+  "id": 728,
+  "name": "石家庄科技信息职业学院",
+  "level": "专科（高职）",
+  "province": "河北",
+  "year": 2025,
+  "count": 2,
+  "records": [
+    {
+      "school_id": 728,
+      "name": "石家庄科技信息职业学院",
+      "year": 2025,
+      "local_batch_id": 10,
+      "local_batch_name": "专科批",
+      "local_province_name": "辽宁",
+      "local_type_name": "历史类",
+      "min": 161,
+      "min_section": 56291,
+      "num": "-",
+      "proscore": "-",
+      "sg_info": "",
+      "sg_name": "",
+      "special_group": "0",
+      "xclevel_name": "",
+      "zslx_name": "普通类",
+      "diff": "-",
+      "local_type_id": 2074,
+      "local_province_id": 21
+    },
+    {
+      "school_id": 728,
+      "name": "石家庄科技信息职业学院",
+      "year": 2025,
+      "local_batch_id": 10,
+      "local_batch_name": "专科批",
+      "local_province_name": "辽宁",
+      "local_type_name": "历史类",
+      "min": 367,
+      "min_section": 40667,
+      "num": "-",
+      "proscore": "-",
+      "sg_info": "",
+      "sg_name": "",
+      "special_group": "0",
+      "xclevel_name": "",
+      "zslx_name": "护理类",
+      "diff": "-",
+      "local_type_id": 2074,
+      "local_province_id": 21
+    }
+  ]
+}

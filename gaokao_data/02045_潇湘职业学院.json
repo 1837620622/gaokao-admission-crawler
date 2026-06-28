@@ -1,0 +1,52 @@
+{
+  "id": 2045,
+  "name": "潇湘职业学院",
+  "level": "专科（高职）",
+  "province": "湖南",
+  "year": 2025,
+  "count": 2,
+  "records": [
+    {
+      "school_id": 2045,
+      "name": "潇湘职业学院",
+      "year": 2025,
+      "local_batch_id": 10,
+      "local_batch_name": "专科批",
+      "local_province_name": "安徽",
+      "local_type_name": "历史类",
+      "min": 210,
+      "min_section": 140486,
+      "num": 2,
+      "proscore": 200,
+      "sg_info": "首选历史，再选不限",
+      "sg_name": "（001）",
+      "special_group": "559430",
+      "xclevel_name": "",
+      "zslx_name": "普通类",
+      "diff": 10,
+      "local_type_id": 2074,
+      "local_province_id": 34
+    },
+    {
+      "school_id": 2045,
+      "name": "潇湘职业学院",
+      "year": 2025,
+      "local_batch_id": 1571,
+      "local_batch_name": "普通类二段",
+      "local_province_name": "山东",
+      "local_type_name": "综合",
+      "min": 190,
+      "min_section": 675782,
+      "num": 16,
+      "proscore": 150,
+      "sg_info": "",
+      "sg_name": "",
+      "special_group": "0",
+      "xclevel_name": "",
+      "zslx_name": "普通类",
+      "diff": 40,
+      "local_type_id": 3,
+      "local_province_id": 37
+    }
+  ]
+}

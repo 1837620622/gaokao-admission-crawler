@@ -1,0 +1,31 @@
+{
+  "id": 1955,
+  "name": "湖北艺术职业学院",
+  "level": "专科（高职）",
+  "province": "湖北",
+  "year": 2025,
+  "count": 1,
+  "records": [
+    {
+      "school_id": 1955,
+      "name": "湖北艺术职业学院",
+      "year": 2025,
+      "local_batch_id": 10,
+      "local_batch_name": "专科批",
+      "local_province_name": "新疆",
+      "local_type_name": "文科",
+      "min": 182,
+      "min_section": 23516,
+      "num": 1,
+      "proscore": 140,
+      "sg_info": "",
+      "sg_name": "",
+      "special_group": "0",
+      "xclevel_name": "",
+      "zslx_name": "普通类",
+      "diff": 42,
+      "local_type_id": 2,
+      "local_province_id": 65
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": 581,
+  "name": "外交学院",
+  "level": "普通本科",
+  "province": "北京",
+  "year": 2025,
+  "count": 1,
+  "records": [
+    {
+      "school_id": 581,
+      "name": "外交学院",
+      "year": 2025,
+      "local_batch_id": 6,
+      "local_batch_name": "本科提前批",
+      "local_province_name": "广东",
+      "local_type_name": "物理类",
+      "min": 611,
+      "min_section": 19380,
+      "num": 8,
+      "proscore": "-",
+      "sg_info": "首选物理，再选不限",
+      "sg_name": "（108）",
+      "special_group": "612674",
+      "xclevel_name": "",
+      "zslx_name": "非军检、面试",
+      "diff": "-",
+      "local_type_id": 2073,
+      "local_province_id": 44
+    }
+  ]
+}

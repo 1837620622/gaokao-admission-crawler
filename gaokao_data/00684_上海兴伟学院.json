@@ -1,0 +1,31 @@
+{
+  "id": 684,
+  "name": "上海兴伟学院",
+  "level": "普通本科",
+  "province": "上海",
+  "year": 2025,
+  "count": 1,
+  "records": [
+    {
+      "school_id": 684,
+      "name": "上海兴伟学院",
+      "year": 2025,
+      "local_batch_id": 14,
+      "local_batch_name": "本科批",
+      "local_province_name": "江苏",
+      "local_type_name": "物理类",
+      "min": 466,
+      "min_section": 202992,
+      "num": "-",
+      "proscore": 463,
+      "sg_info": "首选物理，再选不限",
+      "sg_name": "（02）",
+      "special_group": "549929",
+      "xclevel_name": "",
+      "zslx_name": "普通类",
+      "diff": 3,
+      "local_type_id": 2073,
+      "local_province_id": 32
+    }
+  ]
+}

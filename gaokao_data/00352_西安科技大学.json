@@ -1,0 +1,52 @@
+{
+  "id": 352,
+  "name": "西安科技大学",
+  "level": "普通本科",
+  "province": "陕西",
+  "year": 2025,
+  "count": 2,
+  "records": [
+    {
+      "school_id": 352,
+      "name": "西安科技大学",
+      "year": 2025,
+      "local_batch_id": 47,
+      "local_batch_name": "本科批B段",
+      "local_province_name": "宁夏",
+      "local_type_name": "物理类",
+      "min": 480,
+      "min_section": 9603,
+      "num": "-",
+      "proscore": 372,
+      "sg_info": "首选物理，再选化学",
+      "sg_name": "（502）",
+      "special_group": "606163",
+      "xclevel_name": "",
+      "zslx_name": "普通类",
+      "diff": 108,
+      "local_type_id": 2073,
+      "local_province_id": 64
+    },
+    {
+      "school_id": 352,
+      "name": "西安科技大学",
+      "year": 2025,
+      "local_batch_id": 47,
+      "local_batch_name": "本科批B段",
+      "local_province_name": "宁夏",
+      "local_type_name": "物理类",
+      "min": 491,
+      "min_section": 8208,
+      "num": "-",
+      "proscore": 372,
+      "sg_info": "首选物理，再选不限",
+      "sg_name": "（0y1）",
+      "special_group": "606161",
+      "xclevel_name": "",
+      "zslx_name": "预科",
+      "diff": 119,
+      "local_type_id": 2073,
+      "local_province_id": 64
+    }
+  ]
+}

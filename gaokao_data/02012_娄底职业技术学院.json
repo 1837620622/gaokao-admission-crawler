@@ -1,0 +1,52 @@
+{
+  "id": 2012,
+  "name": "娄底职业技术学院",
+  "level": "专科（高职）",
+  "province": "湖南",
+  "year": 2025,
+  "count": 2,
+  "records": [
+    {
+      "school_id": 2012,
+      "name": "娄底职业技术学院",
+      "year": 2025,
+      "local_batch_id": 10,
+      "local_batch_name": "专科批",
+      "local_province_name": "安徽",
+      "local_type_name": "物理类",
+      "min": 402,
+      "min_section": 255698,
+      "num": 4,
+      "proscore": 200,
+      "sg_info": "首选物理，再选不限",
+      "sg_name": "（001）",
+      "special_group": "559392",
+      "xclevel_name": "",
+      "zslx_name": "普通类",
+      "diff": 202,
+      "local_type_id": 2073,
+      "local_province_id": 34
+    },
+    {
+      "school_id": 2012,
+      "name": "娄底职业技术学院",
+      "year": 2025,
+      "local_batch_id": 10,
+      "local_batch_name": "专科批",
+      "local_province_name": "四川",
+      "local_type_name": "历史类",
+      "min": 420,
+      "min_section": 102568,
+      "num": "-",
+      "proscore": 150,
+      "sg_info": "首选历史，再选不限",
+      "sg_name": "（101）",
+      "special_group": "496079",
+      "xclevel_name": "",
+      "zslx_name": "普通类",
+      "diff": 270,
+      "local_type_id": 2074,
+      "local_province_id": 51
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": 647,
+  "name": "私立华联学院",
+  "level": "专科（高职）",
+  "province": "广东",
+  "year": 2025,
+  "count": 2,
+  "records": [
+    {
+      "school_id": 647,
+      "name": "私立华联学院",
+      "year": 2025,
+      "local_batch_id": 10,
+      "local_batch_name": "专科批",
+      "local_province_name": "广东",
+      "local_type_name": "历史类",
+      "min": 377,
+      "min_section": 186832,
+      "num": "-",
+      "proscore": 215,
+      "sg_info": "首选历史，再选不限",
+      "sg_name": "（501）",
+      "special_group": "612989",
+      "xclevel_name": "",
+      "zslx_name": "普通类",
+      "diff": 162,
+      "local_type_id": 2074,
+      "local_province_id": 44
+    },
+    {
+      "school_id": 647,
+      "name": "私立华联学院",
+      "year": 2025,
+      "local_batch_id": 10,
+      "local_batch_name": "专科批",
+      "local_province_name": "广东",
+      "local_type_name": "历史类",
+      "min": 348,
+      "min_section": 217860,
+      "num": "-",
+      "proscore": 215,
+      "sg_info": "首选历史，再选不限",
+      "sg_name": "（508）",
+      "special_group": "613023",
+      "xclevel_name": "",
+      "zslx_name": "校企联合培养",
+      "diff": 133,
+      "local_type_id": 2074,
+      "local_province_id": 44
+    }
+  ]
+}

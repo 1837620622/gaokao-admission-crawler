@@ -1,0 +1,52 @@
+{
+  "id": 617,
+  "name": "广东交通职业技术学院",
+  "level": "专科（高职）",
+  "province": "广东",
+  "year": 2025,
+  "count": 2,
+  "records": [
+    {
+      "school_id": 617,
+      "name": "广东交通职业技术学院",
+      "year": 2025,
+      "local_batch_id": 3474,
+      "local_batch_name": "专科批F段",
+      "local_province_name": "甘肃",
+      "local_type_name": "物理类",
+      "min": 383,
+      "min_section": 89481,
+      "num": "-",
+      "proscore": 180,
+      "sg_info": "首选物理，再选不限",
+      "sg_name": "（002）",
+      "special_group": "601072",
+      "xclevel_name": "",
+      "zslx_name": "普通类",
+      "diff": 203,
+      "local_type_id": 2073,
+      "local_province_id": 62
+    },
+    {
+      "school_id": 617,
+      "name": "广东交通职业技术学院",
+      "year": 2025,
+      "local_batch_id": 10,
+      "local_batch_name": "专科批",
+      "local_province_name": "新疆",
+      "local_type_name": "理科",
+      "min": 237,
+      "min_section": 49452,
+      "num": 11,
+      "proscore": 140,
+      "sg_info": "",
+      "sg_name": "",
+      "special_group": "0",
+      "xclevel_name": "",
+      "zslx_name": "普通类",
+      "diff": 97,
+      "local_type_id": 1,
+      "local_province_id": 65
+    }
+  ]
+}

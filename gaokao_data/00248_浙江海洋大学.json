@@ -1,0 +1,31 @@
+{
+  "id": 248,
+  "name": "浙江海洋大学",
+  "level": "普通本科",
+  "province": "浙江",
+  "year": 2025,
+  "count": 1,
+  "records": [
+    {
+      "school_id": 248,
+      "name": "浙江海洋大学",
+      "year": 2025,
+      "local_batch_id": 14,
+      "local_batch_name": "本科批",
+      "local_province_name": "江西",
+      "local_type_name": "历史类",
+      "min": 553,
+      "min_section": 11675,
+      "num": "-",
+      "proscore": 486,
+      "sg_info": "首选历史，再选不限",
+      "sg_name": "（101）",
+      "special_group": "567324",
+      "xclevel_name": "",
+      "zslx_name": "普通类",
+      "diff": 67,
+      "local_type_id": 2074,
+      "local_province_id": 36
+    }
+  ]
+}

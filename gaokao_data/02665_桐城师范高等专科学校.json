@@ -1,0 +1,50 @@
+{
+  "id": 2665,
+  "name": "桐城师范高等专科学校",
+  "level": "专科（高职）",
+  "province": "安徽",
+  "year": 2025,
+  "count": 2,
+  "records": [
+    {
+      "sp_name": "学前教育",
+      "remark": "（师范类）",
+      "min": "317",
+      "min_section": "240668",
+      "average": "-",
+      "is_score_range": 2,
+      "min_range": "-",
+      "min_rank_range": "-",
+      "zslx_name": "普通类",
+      "sg_info": "首选物理，再选不限",
+      "diff": 77,
+      "lq_num": "2",
+      "sg_name": "（501）",
+      "school_special_id": 83650,
+      "school_special_status": 1,
+      "local_type_id": 2073,
+      "local_province_id": 36,
+      "local_batch_id": 10
+    },
+    {
+      "sp_name": "小学教育",
+      "remark": "（师范类）",
+      "min": "280",
+      "min_section": "251510",
+      "average": "-",
+      "is_score_range": 2,
+      "min_range": "-",
+      "min_rank_range": "-",
+      "zslx_name": "普通类",
+      "sg_info": "首选物理，再选不限",
+      "diff": 40,
+      "lq_num": "5",
+      "sg_name": "（501）",
+      "school_special_id": 134735,
+      "school_special_status": 1,
+      "local_type_id": 2073,
+      "local_province_id": 36,
+      "local_batch_id": 10
+    }
+  ]
+}

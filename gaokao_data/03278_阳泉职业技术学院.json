@@ -1,0 +1,31 @@
+{
+  "id": 3278,
+  "name": "阳泉职业技术学院",
+  "level": "专科（高职）",
+  "province": "山西",
+  "year": 2025,
+  "count": 1,
+  "records": [
+    {
+      "school_id": 3278,
+      "name": "阳泉职业技术学院",
+      "year": 2025,
+      "local_batch_id": 10,
+      "local_batch_name": "专科批",
+      "local_province_name": "宁夏",
+      "local_type_name": "物理类",
+      "min": 304,
+      "min_section": 40102,
+      "num": "-",
+      "proscore": 150,
+      "sg_info": "首选物理，再选不限",
+      "sg_name": "（001）",
+      "special_group": "608847",
+      "xclevel_name": "",
+      "zslx_name": "普通类",
+      "diff": 154,
+      "local_type_id": 2073,
+      "local_province_id": 64
+    }
+  ]
+}

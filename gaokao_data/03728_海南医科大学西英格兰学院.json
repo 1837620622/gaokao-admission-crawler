@@ -1,0 +1,52 @@
+{
+  "id": 3728,
+  "name": "海南医科大学西英格兰学院",
+  "level": "普通本科",
+  "province": "海南",
+  "year": 2025,
+  "count": 2,
+  "records": [
+    {
+      "school_id": 3728,
+      "name": "海南医科大学西英格兰学院",
+      "year": 2025,
+      "local_batch_id": 14,
+      "local_batch_name": "本科批",
+      "local_province_name": "湖南",
+      "local_type_name": "物理类",
+      "min": 439,
+      "min_section": 168325,
+      "num": "-",
+      "proscore": "-",
+      "sg_info": "首选物理，再选化学",
+      "sg_name": "（209）",
+      "special_group": "589927",
+      "xclevel_name": "",
+      "zslx_name": "中外合作办学",
+      "diff": "-",
+      "local_type_id": 2073,
+      "local_province_id": 43
+    },
+    {
+      "school_id": 3728,
+      "name": "海南医科大学西英格兰学院",
+      "year": 2025,
+      "local_batch_id": 14,
+      "local_batch_name": "本科批",
+      "local_province_name": "广东",
+      "local_type_name": "物理类",
+      "min": 488,
+      "min_section": 187524,
+      "num": "-",
+      "proscore": "-",
+      "sg_info": "首选物理，再选化学",
+      "sg_name": "（205）",
+      "special_group": "617564",
+      "xclevel_name": "",
+      "zslx_name": "中外合作办学",
+      "diff": "-",
+      "local_type_id": 2073,
+      "local_province_id": 44
+    }
+  ]
+}

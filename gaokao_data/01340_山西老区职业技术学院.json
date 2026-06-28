@@ -1,0 +1,52 @@
+{
+  "id": 1340,
+  "name": "山西老区职业技术学院",
+  "level": "专科（高职）",
+  "province": "山西",
+  "year": 2025,
+  "count": 2,
+  "records": [
+    {
+      "school_id": 1340,
+      "name": "山西老区职业技术学院",
+      "year": 2025,
+      "local_batch_id": 10,
+      "local_batch_name": "专科批",
+      "local_province_name": "河北",
+      "local_type_name": "历史类",
+      "min": 421,
+      "min_section": 104714,
+      "num": "-",
+      "proscore": 200,
+      "sg_info": "",
+      "sg_name": "",
+      "special_group": "0",
+      "xclevel_name": "",
+      "zslx_name": "普通类",
+      "diff": 221,
+      "local_type_id": 2074,
+      "local_province_id": 13
+    },
+    {
+      "school_id": 1340,
+      "name": "山西老区职业技术学院",
+      "year": 2025,
+      "local_batch_id": 10,
+      "local_batch_name": "专科批",
+      "local_province_name": "河北",
+      "local_type_name": "历史类",
+      "min": 403,
+      "min_section": 118767,
+      "num": "-",
+      "proscore": 200,
+      "sg_info": "",
+      "sg_name": "",
+      "special_group": "0",
+      "xclevel_name": "",
+      "zslx_name": "护理类",
+      "diff": 203,
+      "local_type_id": 2074,
+      "local_province_id": 13
+    }
+  ]
+}

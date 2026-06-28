@@ -1,0 +1,52 @@
+{
+  "id": 172,
+  "name": "江西农业大学",
+  "level": "普通本科",
+  "province": "江西",
+  "year": 2025,
+  "count": 2,
+  "records": [
+    {
+      "school_id": 172,
+      "name": "江西农业大学",
+      "year": 2025,
+      "local_batch_id": 14,
+      "local_batch_name": "本科批",
+      "local_province_name": "湖北",
+      "local_type_name": "历史类",
+      "min": 561,
+      "min_section": 10797,
+      "num": "-",
+      "proscore": 442,
+      "sg_info": "首选历史，再选不限",
+      "sg_name": "（01）",
+      "special_group": "574773",
+      "xclevel_name": "",
+      "zslx_name": "普通类",
+      "diff": 119,
+      "local_type_id": 2074,
+      "local_province_id": 42
+    },
+    {
+      "school_id": 172,
+      "name": "江西农业大学",
+      "year": 2025,
+      "local_batch_id": 14,
+      "local_batch_name": "本科批",
+      "local_province_name": "湖北",
+      "local_type_name": "历史类",
+      "min": 554,
+      "min_section": 12620,
+      "num": "-",
+      "proscore": 442,
+      "sg_info": "首选历史，再选不限",
+      "sg_name": "（02）",
+      "special_group": "574783",
+      "xclevel_name": "",
+      "zslx_name": "普通类",
+      "diff": 112,
+      "local_type_id": 2074,
+      "local_province_id": 42
+    }
+  ]
+}

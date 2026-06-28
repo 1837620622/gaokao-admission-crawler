@@ -1,0 +1,50 @@
+{
+  "id": 645,
+  "name": "汕头职业技术学院",
+  "level": "专科（高职）",
+  "province": "广东",
+  "year": 2025,
+  "count": 2,
+  "records": [
+    {
+      "sp_name": "商务英语",
+      "remark": "",
+      "min": "434",
+      "min_section": "81334",
+      "average": "-",
+      "is_score_range": 2,
+      "min_range": "-",
+      "min_rank_range": "-",
+      "zslx_name": "普通类",
+      "sg_info": "首选历史，再选不限",
+      "diff": 144,
+      "lq_num": "10",
+      "sg_name": "（101）",
+      "school_special_id": 33406,
+      "school_special_status": 1,
+      "local_type_id": 2074,
+      "local_province_id": 36,
+      "local_batch_id": 10
+    },
+    {
+      "sp_name": "现代物流管理",
+      "remark": "",
+      "min": "431",
+      "min_section": "82738",
+      "average": "-",
+      "is_score_range": 2,
+      "min_range": "-",
+      "min_rank_range": "-",
+      "zslx_name": "普通类",
+      "sg_info": "首选历史，再选不限",
+      "diff": 141,
+      "lq_num": "10",
+      "sg_name": "（101）",
+      "school_special_id": 1794529,
+      "school_special_status": 1,
+      "local_type_id": 2074,
+      "local_province_id": 36,
+      "local_batch_id": 10
+    }
+  ]
+}

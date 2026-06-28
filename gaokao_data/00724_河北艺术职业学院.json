@@ -1,0 +1,31 @@
+{
+  "id": 724,
+  "name": "河北艺术职业学院",
+  "level": "专科（高职）",
+  "province": "河北",
+  "year": 2025,
+  "count": 1,
+  "records": [
+    {
+      "school_id": 724,
+      "name": "河北艺术职业学院",
+      "year": 2025,
+      "local_batch_id": 10,
+      "local_batch_name": "专科批",
+      "local_province_name": "河北",
+      "local_type_name": "物理类",
+      "min": 376,
+      "min_section": 310867,
+      "num": "-",
+      "proscore": 200,
+      "sg_info": "",
+      "sg_name": "",
+      "special_group": "0",
+      "xclevel_name": "",
+      "zslx_name": "普通类",
+      "diff": 176,
+      "local_type_id": 2073,
+      "local_province_id": 13
+    }
+  ]
+}

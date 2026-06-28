@@ -1,0 +1,52 @@
+{
+  "id": 649,
+  "name": "珠海艺术职业学院",
+  "level": "专科（高职）",
+  "province": "广东",
+  "year": 2025,
+  "count": 2,
+  "records": [
+    {
+      "school_id": 649,
+      "name": "珠海艺术职业学院",
+      "year": 2025,
+      "local_batch_id": 10,
+      "local_batch_name": "专科批",
+      "local_province_name": "江苏",
+      "local_type_name": "物理类",
+      "min": 220,
+      "min_section": 260587,
+      "num": "-",
+      "proscore": 220,
+      "sg_info": "首选物理，再选不限",
+      "sg_name": "（02）",
+      "special_group": "549877",
+      "xclevel_name": "",
+      "zslx_name": "普通类",
+      "diff": 0,
+      "local_type_id": 2073,
+      "local_province_id": 32
+    },
+    {
+      "school_id": 649,
+      "name": "珠海艺术职业学院",
+      "year": 2025,
+      "local_batch_id": 1571,
+      "local_batch_name": "普通类二段",
+      "local_province_name": "浙江",
+      "local_type_name": "综合",
+      "min": 343,
+      "min_section": 275980,
+      "num": "-",
+      "proscore": 268,
+      "sg_info": "",
+      "sg_name": "",
+      "special_group": "0",
+      "xclevel_name": "",
+      "zslx_name": "普通类",
+      "diff": 75,
+      "local_type_id": 3,
+      "local_province_id": 33
+    }
+  ]
+}

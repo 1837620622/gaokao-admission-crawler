@@ -1,0 +1,52 @@
+{
+  "id": 3643,
+  "name": "郑州食品工程职业学院",
+  "level": "专科（高职）",
+  "province": "河南",
+  "year": 2025,
+  "count": 2,
+  "records": [
+    {
+      "school_id": 3643,
+      "name": "郑州食品工程职业学院",
+      "year": 2025,
+      "local_batch_id": 10,
+      "local_batch_name": "专科批",
+      "local_province_name": "河北",
+      "local_type_name": "历史类",
+      "min": 200,
+      "min_section": 236503,
+      "num": "-",
+      "proscore": 200,
+      "sg_info": "",
+      "sg_name": "",
+      "special_group": "0",
+      "xclevel_name": "",
+      "zslx_name": "普通类",
+      "diff": 0,
+      "local_type_id": 2074,
+      "local_province_id": 13
+    },
+    {
+      "school_id": 3643,
+      "name": "郑州食品工程职业学院",
+      "year": 2025,
+      "local_batch_id": 10,
+      "local_batch_name": "专科批",
+      "local_province_name": "安徽",
+      "local_type_name": "物理类",
+      "min": 308,
+      "min_section": 306136,
+      "num": 2,
+      "proscore": 200,
+      "sg_info": "首选物理，再选不限",
+      "sg_name": "（001）",
+      "special_group": "561318",
+      "xclevel_name": "",
+      "zslx_name": "普通类",
+      "diff": 108,
+      "local_type_id": 2073,
+      "local_province_id": 34
+    }
+  ]
+}

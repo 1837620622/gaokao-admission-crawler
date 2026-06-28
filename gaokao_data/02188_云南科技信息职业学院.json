@@ -1,0 +1,50 @@
+{
+  "id": 2188,
+  "name": "云南科技信息职业学院",
+  "level": "专科（高职）",
+  "province": "云南",
+  "year": 2025,
+  "count": 2,
+  "records": [
+    {
+      "sp_name": "网络营销与直播电商",
+      "remark": "",
+      "min": "325",
+      "min_section": "118706",
+      "average": "325",
+      "is_score_range": 2,
+      "min_range": "-",
+      "min_rank_range": "-",
+      "zslx_name": "普通类",
+      "sg_info": "首选历史，再选不限",
+      "diff": 125,
+      "lq_num": "-",
+      "sg_name": "（001）",
+      "school_special_id": 2158359,
+      "school_special_status": 1,
+      "local_type_id": 2074,
+      "local_province_id": 34,
+      "local_batch_id": 10
+    },
+    {
+      "sp_name": "智慧旅游技术应用",
+      "remark": "",
+      "min": "262",
+      "min_section": "133411",
+      "average": "262",
+      "is_score_range": 2,
+      "min_range": "-",
+      "min_rank_range": "-",
+      "zslx_name": "普通类",
+      "sg_info": "首选历史，再选不限",
+      "diff": 62,
+      "lq_num": "-",
+      "sg_name": "（001）",
+      "school_special_id": 2158360,
+      "school_special_status": 1,
+      "local_type_id": 2074,
+      "local_province_id": 34,
+      "local_batch_id": 10
+    }
+  ]
+}

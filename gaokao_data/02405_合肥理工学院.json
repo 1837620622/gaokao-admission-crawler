@@ -1,0 +1,29 @@
+{
+  "id": 2405,
+  "name": "合肥理工学院",
+  "level": "普通本科",
+  "province": "安徽",
+  "year": 2025,
+  "count": 1,
+  "records": [
+    {
+      "sp_name": "新能源材料与器件",
+      "remark": "",
+      "min": "536",
+      "min_section": "101526",
+      "average": "-",
+      "is_score_range": 2,
+      "min_range": "-",
+      "min_rank_range": "-",
+      "zslx_name": "普通类",
+      "sg_info": "首选物理，再选化学",
+      "diff": 77,
+      "lq_num": "10",
+      "school_special_id": 2165113,
+      "school_special_status": 1,
+      "local_type_id": 2073,
+      "local_province_id": 13,
+      "local_batch_id": 14
+    }
+  ]
+}

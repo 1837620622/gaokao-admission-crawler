@@ -1,0 +1,29 @@
+{
+  "id": 785,
+  "name": "阿坝师范学院",
+  "level": "普通本科",
+  "province": "四川",
+  "year": 2025,
+  "count": 1,
+  "records": [
+    {
+      "sp_name": "小学教育",
+      "remark": "（加试藏语文）（藏文班）（师范类;办学地点:四川省阿坝藏族羌族自治州）",
+      "min": "407",
+      "min_section": "6067",
+      "average": "408",
+      "is_score_range": 2,
+      "min_range": "-",
+      "min_rank_range": "-",
+      "zslx_name": "普通类",
+      "sg_info": "首选历史，再选不限",
+      "diff": 2,
+      "lq_num": "-",
+      "school_special_id": 158697,
+      "school_special_status": 1,
+      "local_type_id": 2074,
+      "local_province_id": 63,
+      "local_batch_id": 14
+    }
+  ]
+}

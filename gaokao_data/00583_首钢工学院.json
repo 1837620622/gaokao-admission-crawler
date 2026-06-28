@@ -1,0 +1,31 @@
+{
+  "id": 583,
+  "name": "首钢工学院",
+  "level": "普通本科",
+  "province": "北京",
+  "year": 2025,
+  "count": 1,
+  "records": [
+    {
+      "school_id": 583,
+      "name": "首钢工学院",
+      "year": 2025,
+      "local_batch_id": 10,
+      "local_batch_name": "专科批",
+      "local_province_name": "河北",
+      "local_type_name": "历史类",
+      "min": 471,
+      "min_section": 68889,
+      "num": "-",
+      "proscore": 200,
+      "sg_info": "",
+      "sg_name": "",
+      "special_group": "0",
+      "xclevel_name": "",
+      "zslx_name": "普通类",
+      "diff": 271,
+      "local_type_id": 2074,
+      "local_province_id": 13
+    }
+  ]
+}

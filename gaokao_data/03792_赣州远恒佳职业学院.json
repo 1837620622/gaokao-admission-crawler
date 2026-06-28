@@ -1,0 +1,31 @@
+{
+  "id": 3792,
+  "name": "赣州远恒佳职业学院",
+  "level": "专科（高职）",
+  "province": "江西",
+  "year": 2025,
+  "count": 1,
+  "records": [
+    {
+      "school_id": 3792,
+      "name": "赣州远恒佳职业学院",
+      "year": 2025,
+      "local_batch_id": 10,
+      "local_batch_name": "专科批",
+      "local_province_name": "江西",
+      "local_type_name": "物理类",
+      "min": 220,
+      "min_section": 262517,
+      "num": "-",
+      "proscore": 240,
+      "sg_info": "首选物理，再选不限",
+      "sg_name": "（501）",
+      "special_group": "573896",
+      "xclevel_name": "",
+      "zslx_name": "普通类",
+      "diff": "-",
+      "local_type_id": 2073,
+      "local_province_id": 36
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": 3716,
+  "name": "盐城农业科技职业学院",
+  "level": "专科（高职）",
+  "province": "江苏",
+  "year": 2025,
+  "count": 1,
+  "records": [
+    {
+      "school_id": 3716,
+      "name": "盐城农业科技职业学院",
+      "year": 2025,
+      "local_batch_id": 10,
+      "local_batch_name": "专科批",
+      "local_province_name": "江苏",
+      "local_type_name": "历史类",
+      "min": 317,
+      "min_section": 90810,
+      "num": "-",
+      "proscore": 220,
+      "sg_info": "首选历史，再选不限",
+      "sg_name": "（01）",
+      "special_group": "553072",
+      "xclevel_name": "",
+      "zslx_name": "普通类",
+      "diff": 97,
+      "local_type_id": 2074,
+      "local_province_id": 32
+    }
+  ]
+}

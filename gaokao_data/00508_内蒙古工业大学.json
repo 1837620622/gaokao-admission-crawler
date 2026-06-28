@@ -1,0 +1,52 @@
+{
+  "id": 508,
+  "name": "内蒙古工业大学",
+  "level": "普通本科",
+  "province": "内蒙古",
+  "year": 2025,
+  "count": 2,
+  "records": [
+    {
+      "school_id": 508,
+      "name": "内蒙古工业大学",
+      "year": 2025,
+      "local_batch_id": 14,
+      "local_batch_name": "本科批",
+      "local_province_name": "海南",
+      "local_type_name": "综合",
+      "min": 550,
+      "min_section": 23459,
+      "num": "-",
+      "proscore": 480,
+      "sg_info": "物理必选",
+      "sg_name": "（01）",
+      "special_group": "525825",
+      "xclevel_name": "",
+      "zslx_name": "普通类",
+      "diff": 70,
+      "local_type_id": 3,
+      "local_province_id": 46
+    },
+    {
+      "school_id": 508,
+      "name": "内蒙古工业大学",
+      "year": 2025,
+      "local_batch_id": 14,
+      "local_batch_name": "本科批",
+      "local_province_name": "海南",
+      "local_type_name": "综合",
+      "min": 516,
+      "min_section": 32958,
+      "num": "-",
+      "proscore": 480,
+      "sg_info": "物理、化学(2科必选)",
+      "sg_name": "（02）",
+      "special_group": "525832",
+      "xclevel_name": "",
+      "zslx_name": "普通类",
+      "diff": 36,
+      "local_type_id": 3,
+      "local_province_id": 46
+    }
+  ]
+}

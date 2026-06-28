@@ -1,0 +1,30 @@
+{
+  "id": 729,
+  "name": "河北交通职业技术学院",
+  "level": "专科（高职）",
+  "province": "河北",
+  "year": 2025,
+  "count": 1,
+  "records": [
+    {
+      "sp_name": "航海技术",
+      "remark": "（男生身高1.62米及以上，女生身高1.58米及以上;双眼矫正视力不低于4.8;辨色力完全正常;不招色盲、色弱考生）",
+      "min": "416",
+      "min_section": "243416",
+      "average": "442",
+      "is_score_range": 2,
+      "min_range": "-",
+      "min_rank_range": "-",
+      "zslx_name": "普通类",
+      "sg_info": "首选物理，再选不限",
+      "diff": "-",
+      "lq_num": "-",
+      "sg_name": "（001）",
+      "school_special_id": 35825,
+      "school_special_status": 1,
+      "local_type_id": 2073,
+      "local_province_id": 34,
+      "local_batch_id": 11
+    }
+  ]
+}

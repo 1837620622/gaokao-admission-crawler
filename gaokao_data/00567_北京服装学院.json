@@ -1,0 +1,52 @@
+{
+  "id": 567,
+  "name": "北京服装学院",
+  "level": "普通本科",
+  "province": "北京",
+  "year": 2025,
+  "count": 2,
+  "records": [
+    {
+      "school_id": 567,
+      "name": "北京服装学院",
+      "year": 2025,
+      "local_batch_id": 14,
+      "local_batch_name": "本科批",
+      "local_province_name": "安徽",
+      "local_type_name": "物理类",
+      "min": 527,
+      "min_section": 96969,
+      "num": 2,
+      "proscore": 461,
+      "sg_info": "首选物理，再选不限",
+      "sg_name": "（001）",
+      "special_group": "556472",
+      "xclevel_name": "",
+      "zslx_name": "普通类",
+      "diff": 66,
+      "local_type_id": 2073,
+      "local_province_id": 34
+    },
+    {
+      "school_id": 567,
+      "name": "北京服装学院",
+      "year": 2025,
+      "local_batch_id": 14,
+      "local_batch_name": "本科批",
+      "local_province_name": "安徽",
+      "local_type_name": "物理类",
+      "min": 521,
+      "min_section": 104820,
+      "num": 10,
+      "proscore": 461,
+      "sg_info": "首选物理，再选化学",
+      "sg_name": "（002）",
+      "special_group": "556476",
+      "xclevel_name": "",
+      "zslx_name": "普通类",
+      "diff": 60,
+      "local_type_id": 2073,
+      "local_province_id": 34
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": 2911,
+  "name": "新疆体育职业技术学院",
+  "level": "专科（高职）",
+  "province": "新疆",
+  "year": 2025,
+  "count": 2,
+  "records": [
+    {
+      "sp_name": "休闲体育",
+      "remark": "",
+      "min": "238",
+      "min_section": "21572",
+      "average": "250",
+      "is_score_range": 2,
+      "min_range": "-",
+      "min_rank_range": "-",
+      "zslx_name": "普通类",
+      "sg_info": "",
+      "diff": 98,
+      "lq_num": "11",
+      "school_special_id": 2148560,
+      "school_special_status": 1,
+      "local_type_id": 2,
+      "local_province_id": 65,
+      "local_batch_id": 10
+    },
+    {
+      "sp_name": "体育运营与管理",
+      "remark": "",
+      "min": "234",
+      "min_section": "21767",
+      "average": "245",
+      "is_score_range": 2,
+      "min_range": "-",
+      "min_rank_range": "-",
+      "zslx_name": "普通类",
+      "sg_info": "",
+      "diff": 94,
+      "lq_num": "7",
+      "school_special_id": 2159421,
+      "school_special_status": 1,
+      "local_type_id": 2,
+      "local_province_id": 65,
+      "local_batch_id": 10
+    }
+  ]
+}

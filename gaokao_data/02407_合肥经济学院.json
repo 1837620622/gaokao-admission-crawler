@@ -1,0 +1,52 @@
+{
+  "id": 2407,
+  "name": "合肥经济学院",
+  "level": "普通本科",
+  "province": "安徽",
+  "year": 2025,
+  "count": 2,
+  "records": [
+    {
+      "school_id": 2407,
+      "name": "合肥经济学院",
+      "year": 2025,
+      "local_batch_id": 14,
+      "local_batch_name": "本科批",
+      "local_province_name": "安徽",
+      "local_type_name": "物理类",
+      "min": 474,
+      "min_section": 172535,
+      "num": 892,
+      "proscore": 461,
+      "sg_info": "首选物理，再选不限",
+      "sg_name": "（001）",
+      "special_group": "560076",
+      "xclevel_name": "",
+      "zslx_name": "普通类",
+      "diff": 13,
+      "local_type_id": 2073,
+      "local_province_id": 34
+    },
+    {
+      "school_id": 2407,
+      "name": "合肥经济学院",
+      "year": 2025,
+      "local_batch_id": 14,
+      "local_batch_name": "本科批",
+      "local_province_name": "安徽",
+      "local_type_name": "物理类",
+      "min": 473,
+      "min_section": 173956,
+      "num": 1735,
+      "proscore": 461,
+      "sg_info": "首选物理，再选化学",
+      "sg_name": "（002）",
+      "special_group": "560088",
+      "xclevel_name": "",
+      "zslx_name": "普通类",
+      "diff": 12,
+      "local_type_id": 2073,
+      "local_province_id": 34
+    }
+  ]
+}

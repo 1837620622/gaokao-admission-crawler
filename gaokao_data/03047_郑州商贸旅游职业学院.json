@@ -1,0 +1,31 @@
+{
+  "id": 3047,
+  "name": "郑州商贸旅游职业学院",
+  "level": "专科（高职）",
+  "province": "河南",
+  "year": 2025,
+  "count": 1,
+  "records": [
+    {
+      "school_id": 3047,
+      "name": "郑州商贸旅游职业学院",
+      "year": 2025,
+      "local_batch_id": 1571,
+      "local_batch_name": "普通类二段",
+      "local_province_name": "山东",
+      "local_type_name": "综合",
+      "min": 205,
+      "min_section": 671807,
+      "num": 50,
+      "proscore": 150,
+      "sg_info": "",
+      "sg_name": "",
+      "special_group": "0",
+      "xclevel_name": "",
+      "zslx_name": "普通类",
+      "diff": 55,
+      "local_type_id": 3,
+      "local_province_id": 37
+    }
+  ]
+}

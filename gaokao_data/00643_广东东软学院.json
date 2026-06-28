@@ -1,0 +1,30 @@
+{
+  "id": 643,
+  "name": "广东东软学院",
+  "level": "普通本科",
+  "province": "广东",
+  "year": 2025,
+  "count": 1,
+  "records": [
+    {
+      "sp_name": "电子商务",
+      "remark": "",
+      "min": "409",
+      "min_section": "151163",
+      "average": "-",
+      "is_score_range": 2,
+      "min_range": "-",
+      "min_rank_range": "-",
+      "zslx_name": "普通类",
+      "sg_info": "首选历史，再选不限",
+      "diff": 194,
+      "lq_num": "-",
+      "sg_name": "（503）",
+      "school_special_id": 33326,
+      "school_special_status": 1,
+      "local_type_id": 2074,
+      "local_province_id": 44,
+      "local_batch_id": 10
+    }
+  ]
+}
